@@ -1,0 +1,2454 @@
+index,domainID,domainFamilyDescription
+0,CoiledCoil,coil prediction
+1,LowComplexity,low complexity prediction
+2,mobidb-lite,disorder prediction
+3,PF00001,7transmembranereceptor(rhodopsinfamily)
+4,PF00002,7transmembranereceptor(Secretinfamily)
+5,PF00003,7transmembranesweet-tastereceptorof3GCPR
+6,PF00004,ATPasefamilyassociatedwithvariouscellularactivities(AAA)
+7,PF00005,ABCtransporter
+8,PF00006,ATPsynthasealpha/betafamily: nucleotide-bindingdomain
+9,PF00007,Cystine-knotdomain
+10,PF00008,EGF-likedomain
+11,PF00010,Helix-loop-helixDNA-bindingdomain
+12,PF00011,Hsp20/alphacrystallinfamily
+13,PF00012,Hsp70protein
+14,PF00013,KHdomain
+15,PF00014,Kunitz/Bovinepancreatictrypsininhibitordomain
+16,PF00016,Ribulosebisphosphatecarboxylaselargechain: catalyticdomain
+17,PF00017,SH2domain
+18,PF00018,SH3domain
+19,PF00019,Transforminggrowthfactorbetalikedomain
+20,PF00021,u-PAR/Ly-6domain
+21,PF00022,Actin
+22,PF00023,Ankyrinrepeat
+23,PF00024,PANdomain
+24,PF00025,ADP-ribosylationfactorfamily
+25,PF00026,Eukaryoticaspartylprotease
+26,PF00027,Cyclicnucleotide-bindingdomain
+27,PF00028,Cadherindomain
+28,PF00029,Connexin
+29,PF00030,Beta/Gammacrystallin
+30,PF00031,Cystatindomain
+31,PF00032,Cytochromeb(C-terminal)/b6/petD
+32,PF00033,Cytochromeb/b6/petB
+33,PF00034,Cytochromec
+34,PF00035,Double-strandedRNAbindingmotif
+35,PF00036,EFhand
+36,PF00037,4Fe-4Sbindingdomain
+37,PF00038,Intermediatefilamentprotein
+38,PF00039,FibronectintypeIdomain
+39,PF00040,FibronectintypeIIdomain
+40,PF00041,FibronectintypeIIIdomain
+41,PF00042,Globin
+42,PF00043,GlutathioneS-transferase: C-terminaldomain
+43,PF00044,Glyceraldehyde3-phosphatedehydrogenase: NADbindingdomain
+44,PF00045,Hemopexin
+45,PF00046,Homeodomain
+46,PF00047,Immunoglobulindomain
+47,PF00050,Kazal-typeserineproteaseinhibitordomain
+48,PF00051,Kringledomain
+49,PF00053,LamininEGFdomain
+50,PF00054,LamininGdomain
+51,PF00055,LamininN-terminal(DomainVI)
+52,PF00056,lactate/malatedehydrogenase: NADbindingdomain
+53,PF00057,Low-densitylipoproteinreceptordomainclassA
+54,PF00058,Low-densitylipoproteinreceptorrepeatclassB
+55,PF00059,LectinC-typedomain
+56,PF00060,Ligand-gatedionchannel
+57,PF00062,C-typelysozyme/alpha-lactalbuminfamily
+58,PF00063,Myosinhead(motordomain)
+59,PF00066,LNRdomain
+60,PF00067,CytochromeP450
+61,PF00068,PhospholipaseA2
+62,PF00069,Proteinkinasedomain
+63,PF00071,Rasfamily
+64,PF00072,Responseregulatorreceiverdomain
+65,PF00074,Pancreaticribonuclease
+66,PF00076,RNArecognitionmotif.(a.k.a.RRM: RBD: orRNPdomain)
+67,PF00078,Reversetranscriptase(RNA-dependentDNApolymerase)
+68,PF00079,Serpin(serineproteaseinhibitor)
+69,PF00080,Copper/zincsuperoxidedismutase(SODC)
+70,PF00081,Iron/manganesesuperoxidedismutases: alpha-hairpindomain
+71,PF00082,Subtilasefamily
+72,PF00083,Sugar(andother)transporter
+73,PF00084,Sushirepeat(SCRrepeat)
+74,PF00085,Thioredoxin
+75,PF00086,Thyroglobulintype-1repeat
+76,PF00088,Trefoil(P-type)domain
+77,PF00089,Trypsin
+78,PF00090,Thrombospondintype1domain
+79,PF00091,Tubulin/FtsZfamily: GTPasedomain
+80,PF00092,vonWillebrandfactortypeAdomain
+81,PF00093,vonWillebrandfactortypeCdomain
+82,PF00094,vonWillebrandfactortypeDdomain
+83,PF00095,WAP-type(WheyAcidicProtein)'four-disulfidecore'
+84,PF00097,Zincfinger: C3HC4type(RINGfinger)
+85,PF00098,Zincknuckle
+86,PF00100,Zonapellucida-likedomain
+87,PF00102,Protein-tyrosinephosphatase
+88,PF00103,Somatotropinhormonefamily
+89,PF00104,Ligand-bindingdomainofnuclearhormonereceptor
+90,PF00105,Zincfinger: C4type(twodomains)
+91,PF00106,shortchaindehydrogenase
+92,PF00107,Zinc-bindingdehydrogenase
+93,PF00108,Thiolase: N-terminaldomain
+94,PF00109,Beta-ketoacylsynthase: N-terminaldomain
+95,PF00110,wntfamily
+96,PF00112,Papainfamilycysteineprotease
+97,PF00113,Enolase: C-terminalTIMbarreldomain
+98,PF00115,CytochromeCandQuinoloxidasepolypeptideI
+99,PF00116,CytochromeCoxidasesubunitII: periplasmicdomain
+100,PF00117,Glutamineamidotransferaseclass-I
+101,PF00118,TCP-1/cpn60chaperoninfamily
+102,PF00119,ATPsynthaseAchain
+103,PF00121,Triosephosphateisomerase
+104,PF00122,E1-E2ATPase
+105,PF00124,Photosyntheticreactioncentreprotein
+106,PF00125,CorehistoneH2A/H2B/H3/H4
+107,PF00128,Alphaamylase: catalyticdomain
+108,PF00129,ClassIHistocompatibilityantigen: domainsalpha1and2
+109,PF00130,Phorbolesters/diacylglycerolbindingdomain(C1domain)
+110,PF00132,Bacterialtransferasehexapeptide(sixrepeats)
+111,PF00133,tRNAsynthetasesclassI(I: L: MandV)
+112,PF00134,Cyclin: N-terminaldomain
+113,PF00135,Carboxylesterasefamily
+114,PF00136,DNApolymerasefamilyB
+115,PF00137,ATPsynthasesubunitC
+116,PF00139,Legumelectindomain
+117,PF00141,Peroxidase
+118,PF00143,Interferonalpha/betadomain
+119,PF00144,Beta-lactamase
+120,PF00146,NADHdehydrogenase
+121,PF00147,Fibrinogenbetaandgammachains: C-terminalglobulardomain
+122,PF00148,Nitrogenasecomponent1typeOxidoreductase
+123,PF00149,Calcineurin-likephosphoesterase
+124,PF00150,Cellulase(glycosylhydrolasefamily5)
+125,PF00151,Lipase
+126,PF00153,Mitochondrialcarrierprotein
+127,PF00155,AminotransferaseclassIandII
+128,PF00156,Phosphoribosyltransferasedomain
+129,PF00159,Pancreatichormonepeptide
+130,PF00160,Cyclophilintypepeptidyl-prolylcis-transisomerase/CLD
+131,PF00162,Phosphoglyceratekinase
+132,PF00163,RibosomalproteinS4/S9N-terminaldomain
+133,PF00164,RibosomalproteinS12/S23
+134,PF00166,Chaperonin10Kdsubunit
+135,PF00167,Fibroblastgrowthfactor
+136,PF00168,C2domain
+137,PF00169,PHdomain
+138,PF00170,bZIPtranscriptionfactor
+139,PF00171,Aldehydedehydrogenasefamily
+140,PF00172,FungalZn(2)-Cys(6)binuclearclusterdomain
+141,PF00173,Cytochromeb5-likeHeme/Steroidbindingdomain
+142,PF00175,OxidoreductaseNAD-bindingdomain
+143,PF00176,SNF2familyN-terminaldomain
+144,PF00177,RibosomalproteinS7p/S5e
+145,PF00178,Ets-domain
+146,PF00179,Ubiquitin-conjugatingenzyme
+147,PF00180,Isocitrate/isopropylmalatedehydrogenase
+148,PF00181,RibosomalProteinsL2: RNAbindingdomain
+149,PF00182,ChitinaseclassI
+150,PF00183,Hsp90protein
+151,PF00184,Neurohypophysialhormones: C-terminalDomain
+152,PF00186,Dihydrofolatereductase
+153,PF00188,Cysteine-richsecretoryproteinfamily
+154,PF00189,RibosomalproteinS3: C-terminaldomain
+155,PF00191,Annexin
+156,PF00194,Eukaryotic-typecarbonicanhydrase
+157,PF00195,Chalconeandstilbenesynthases: N-terminaldomain
+158,PF00198,2-oxoaciddehydrogenasesacyltransferase(catalyticdomain)
+159,PF00199,Catalase
+160,PF00200,Disintegrin
+161,PF00201,UDP-glucoronosylandUDP-glucosyltransferase
+162,PF00202,Aminotransferaseclass-III
+163,PF00203,RibosomalproteinS19
+164,PF00205,Thiaminepyrophosphateenzyme: centraldomain
+165,PF00206,Lyase
+166,PF00207,Alpha-2-macroglobulinfamily
+167,PF00208,Glutamate/Leucine/Phenylalanine/Valinedehydrogenase
+168,PF00209,Sodium:neurotransmittersymporterfamily
+169,PF00210,Ferritin-likedomain
+170,PF00211,AdenylateandGuanylatecyclasecatalyticdomain
+171,PF00217,ATP:guanidophosphotransferase: C-terminalcatalyticdomain
+172,PF00221,Aromaticaminoacidlyase
+173,PF00223,PhotosystemIpsaA/psaBprotein
+174,PF00224,Pyruvatekinase: barreldomain
+175,PF00225,Kinesinmotordomain
+176,PF00226,DnaJdomain
+177,PF00227,Proteasomesubunit
+178,PF00228,Bowman-Birkserineproteaseinhibitorfamily
+179,PF00230,Majorintrinsicprotein
+180,PF00232,Glycosylhydrolasefamily1
+181,PF00233,3'5'-cyclicnucleotidephosphodiesterase
+182,PF00234,Proteaseinhibitor/seedstorage/LTPfamily
+183,PF00235,Profilin
+184,PF00237,RibosomalproteinL22p/L17e
+185,PF00238,RibosomalproteinL14p/L23e
+186,PF00240,Ubiquitinfamily
+187,PF00241,Cofilin/tropomyosin-typeactin-bindingprotein
+188,PF00243,Nervegrowthfactorfamily
+189,PF00244,14-3-3protein
+190,PF00245,Alkalinephosphatase
+191,PF00246,Zinccarboxypeptidase
+192,PF00248,Aldo/ketoreductasefamily
+193,PF00249,Myb-likeDNA-bindingdomain
+194,PF00250,Forkheaddomain
+195,PF00251,Glycosylhydrolasesfamily32N-terminaldomain
+196,PF00252,RibosomalproteinL16p/L10e
+197,PF00253,RibosomalproteinS14p/S29e
+198,PF00254,FKBP-typepeptidyl-prolylcis-transisomerase
+199,PF00255,Glutathioneperoxidase
+200,PF00264,Commoncentraldomainoftyrosinase
+201,PF00266,Aminotransferaseclass-V
+202,PF00268,Ribonucleotidereductase: smallchain
+203,PF00270,DEAD/DEAHboxhelicase
+204,PF00271,HelicaseconservedC-terminaldomain
+205,PF00273,Serumalbuminfamily
+206,PF00274,Fructose-bisphosphatealdolaseclass-I
+207,PF00276,RibosomalproteinL23
+208,PF00282,Pyridoxal-dependentdecarboxylaseconserveddomain
+209,PF00285,Citratesynthase: C-terminaldomain
+210,PF00287,Sodium/potassiumATPasebetachain
+211,PF00288,GHMPkinasesNterminaldomain
+212,PF00289,Biotincarboxylase: N-terminaldomain
+213,PF00293,NUDIXdomain
+214,PF00295,Glycosylhydrolasesfamily28
+215,PF00296,Luciferase-likemonooxygenase
+216,PF00297,RibosomalproteinL3
+217,PF00300,Histidinephosphatasesuperfamily(branch1)
+218,PF00305,Lipoxygenase
+219,PF00306,ATPsynthasealpha/betachain: Cterminaldomain
+220,PF00307,Calponinhomology(CH)domain
+221,PF00312,RibosomalproteinS15
+222,PF00313,'Cold-shock'DNA-bindingdomain
+223,PF00314,Thaumatinfamily
+224,PF00316,Fructose-1-6-bisphosphatase: N-terminaldomain
+225,PF00317,Ribonucleotidereductase: all-alphadomain
+226,PF00318,RibosomalproteinS2
+227,PF00319,SRF-typetranscriptionfactor(DNA-bindinganddimerisationdomain)
+228,PF00320,GATAzincfinger
+229,PF00324,Aminoacidpermease
+230,PF00326,Prolyloligopeptidasefamily
+231,PF00328,Histidinephosphatasesuperfamily(branch2)
+232,PF00330,Aconitasefamily(aconitatehydratase)
+233,PF00331,Glycosylhydrolasefamily10
+234,PF00333,RibosomalproteinS5: N-terminaldomain
+235,PF00334,Nucleosidediphosphatekinase
+236,PF00335,Tetraspaninfamily
+237,PF00337,Galactoside-bindinglectin
+238,PF00339,Arrestin(orS-antigen): N-terminaldomain
+239,PF00341,PDGF/VEGFdomain
+240,PF00342,Phosphoglucoseisomerase
+241,PF00343,Carbohydratephosphorylase
+242,PF00346,Respiratory-chainNADHdehydrogenase: 49Kdsubunit
+243,PF00348,Polyprenylsynthetase
+244,PF00350,Dynaminfamily
+245,PF00351,Biopterin-dependentaromaticaminoacidhydroxylase
+246,PF00354,Pentaxinfamily
+247,PF00355,Rieske[2Fe-2S]domain
+248,PF00360,Phytochromeregion
+249,PF00361,Proton-conductingmembranetransporter
+250,PF00364,Biotin-requiringenzyme
+251,PF00368,Hydroxymethylglutaryl-coenzymeAreductase
+252,PF00370,FGGYfamilyofcarbohydratekinases: N-terminaldomain
+253,PF00372,Hemocyanin: coppercontainingdomain
+254,PF00373,FERMcentraldomain
+255,PF00375,Sodium:dicarboxylatesymporterfamily
+256,PF00378,Enoyl-CoAhydratase/isomerase
+257,PF00379,Insectcuticleprotein
+258,PF00380,RibosomalproteinS9/S16
+259,PF00382,TranscriptionfactorTFIIBrepeat
+260,PF00383,Cytidineanddeoxycytidylatedeaminasezinc-bindingregion
+261,PF00385,Chromo(CHRromatinOrganisationMOdifier)domain
+262,PF00386,C1qdomain
+263,PF00387,Phosphatidylinositol-specificphospholipaseC: Ydomain
+264,PF00389,D-isomerspecific2-hydroxyaciddehydrogenase: catalyticdomain
+265,PF00390,Malicenzyme: N-terminaldomain
+266,PF00393,6-phosphogluconatedehydrogenase: C-terminaldomain
+267,PF00394,Multicopperoxidase
+268,PF00397,WWdomain
+269,PF00400,WDdomain: G-betarepeat
+270,PF00401,ATPsynthase: Delta/Epsilonchain: longalpha-helixdomain
+271,PF00402,Calponinfamilyrepeat
+272,PF00403,Heavy-metal-associateddomain
+273,PF00405,Transferrin
+274,PF00407,Pathogenesis-relatedproteinBetv1family
+275,PF00408,Phosphoglucomutase/phosphomannomutase: C-terminaldomain
+276,PF00410,RibosomalproteinS8
+277,PF00411,RibosomalproteinS11
+278,PF00412,LIMdomain
+279,PF00413,Matrixin
+280,PF00415,Regulatorofchromosomecondensation(RCC1)repeat
+281,PF00416,RibosomalproteinS13/S18
+282,PF00418,TauandMAPprotein: tubulin-bindingrepeat
+283,PF00421,PhotosystemIIprotein
+284,PF00425,chorismatebindingenzyme
+285,PF00430,ATPsynthaseB/B'CF(0)
+286,PF00431,CUBdomain
+287,PF00432,Prenyltransferaseandsqualeneoxidaserepeat
+288,PF00433,ProteinkinaseCterminaldomain
+289,PF00435,Spectrinrepeat
+290,PF00436,Single-strandbindingproteinfamily
+291,PF00438,S-adenosylmethioninesynthetase: N-terminaldomain
+292,PF00439,Bromodomain
+293,PF00441,Acyl-CoAdehydrogenase: C-terminaldomain
+294,PF00443,Ubiquitincarboxyl-terminalhydrolase
+295,PF00444,RibosomalproteinL36
+296,PF00445,RibonucleaseT2family
+297,PF00447,HSF-typeDNA-binding
+298,PF00448,SRP54-typeprotein: GTPasedomain
+299,PF00450,Serinecarboxypeptidase
+300,PF00453,RibosomalproteinL20
+301,PF00454,Phosphatidylinositol3-and4-kinase
+302,PF00458,WHEP-TRSdomain
+303,PF00459,Inositolmonophosphatasefamily
+304,PF00462,Glutaredoxin
+305,PF00465,Iron-containingalcoholdehydrogenase
+306,PF00467,KOWmotif
+307,PF00468,RibosomalproteinL34
+308,PF00471,RibosomalproteinL33
+309,PF00472,RF-1domain
+310,PF00474,Sodium:solutesymporterfamily
+311,PF00481,Proteinphosphatase2C
+312,PF00483,Nucleotidyltransferase
+313,PF00487,Fattyaciddesaturase
+314,PF00488,MutSdomainV
+315,PF00491,Arginasefamily
+316,PF00493,MCMP-loopdomain
+317,PF00497,Bacterialextracellularsolute-bindingproteins: family3
+318,PF00498,FHAdomain
+319,PF00499,NADH-ubiquinone/plastoquinoneoxidoreductasechain6
+320,PF00501,AMP-bindingenzyme
+321,PF00504,ChlorophyllA-Bbindingprotein
+322,PF00505,HMG(highmobilitygroup)box
+323,PF00507,NADH-ubiquinone/plastoquinoneoxidoreductase: chain3
+324,PF00510,CytochromecoxidasesubunitIII
+325,PF00512,HisKinaseA(phospho-acceptor)domain
+326,PF00514,Armadillo/beta-catenin-likerepeat
+327,PF00515,Tetratricopeptiderepeat
+328,PF00517,Retroviralenvelopeprotein
+329,PF00520,Iontransportprotein
+330,PF00521,DNAgyrase/topoisomeraseIV: subunitA
+331,PF00525,AlphacrystallinAchain: Nterminal
+332,PF00526,Dictyostelium(slimemold)repeat
+333,PF00530,Scavengerreceptorcysteine-richdomain
+334,PF00531,Deathdomain
+335,PF00533,BRCA1CTerminus(BRCT)domain
+336,PF00534,Glycosyltransferasesgroup1
+337,PF00535,Glycosyltransferasefamily2
+338,PF00536,SAMdomain(Sterilealphamotif)
+339,PF00538,linkerhistoneH1andH5family
+340,PF00549,CoA-ligase
+341,PF00550,Phosphopantetheineattachmentsite
+342,PF00557,MetallopeptidasefamilyM24
+343,PF00560,LeucineRichRepeat
+344,PF00561,alpha/betahydrolasefold
+345,PF00562,RNApolymeraseRpb2: domain6
+346,PF00564,PB1domain
+347,PF00565,Staphylococcalnucleasehomologue
+348,PF00566,Rab-GTPase-TBCdomain
+349,PF00567,Tudordomain
+350,PF00568,WH1domain
+351,PF00569,Zincfinger: ZZtype
+352,PF00570,HRDCdomain
+353,PF00571,CBSdomain
+354,PF00572,RibosomalproteinL13
+355,PF00573,RibosomalproteinL4/L1family
+356,PF00574,Clpprotease
+357,PF00575,S1RNAbindingdomain
+358,PF00578,AhpC/TSAfamily
+359,PF00579,tRNAsynthetasesclassI(WandY)
+360,PF00581,Rhodanese-likedomain
+361,PF00582,Universalstressproteinfamily
+362,PF00583,Acetyltransferase(GNAT)family
+363,PF00584,SecE/Sec61-gammasubunitsofproteintranslocationcomplex
+364,PF00586,AIRsynthaserelatedprotein: N-terminaldomain
+365,PF00587,tRNAsynthetaseclassIIcoredomain(G: H: P: SandT)
+366,PF00588,SpoUrRNAMethylasefamily
+367,PF00591,Glycosyltransferasefamily: a/bdomain
+368,PF00594,VitaminK-dependentcarboxylation/gamma-carboxyglutamic(GLA)domain
+369,PF00595,PDZdomain
+370,PF00596,ClassIIAldolaseandAdducinN-terminaldomain
+371,PF00605,Interferonregulatoryfactortranscriptionfactor
+372,PF00609,Diacylglycerolkinaseaccessorydomain
+373,PF00610,DomainfoundinDishevelled: Egl-10: andPleckstrin(DEP)
+374,PF00611,Fes/CIP4: andEFC/F-BARhomologydomain
+375,PF00612,IQcalmodulin-bindingmotif
+376,PF00613,Phosphoinositide3-kinasefamily: accessorydomain(PIKdomain)
+377,PF00614,PhospholipaseDActivesitemotif
+378,PF00615,RegulatorofGproteinsignalingdomain
+379,PF00616,GTPase-activatorproteinforRas-likeGTPase
+380,PF00617,RasGEFdomain
+381,PF00620,RhoGAPdomain
+382,PF00621,RhoGEFdomain
+383,PF00622,SPRYdomain
+384,PF00623,RNApolymeraseRpb1: domain2
+385,PF00625,Guanylatekinase
+386,PF00626,Gelsolinrepeat
+387,PF00627,UBA/TS-Ndomain
+388,PF00628,PHD-finger
+389,PF00629,MAMdomain: meprin/A5/mu
+390,PF00630,Filamin/ABP280repeat
+391,PF00631,GGLdomain
+392,PF00632,HECT-domain(ubiquitin-transferase)
+393,PF00634,BRCA2repeat
+394,PF00637,RegioninClathrinandVPS
+395,PF00638,RanBP1domain
+396,PF00640,Phosphotyrosineinteractiondomain(PTB/PID)
+397,PF00641,Zn-fingerinRanbindingproteinandothers
+398,PF00642,ZincfingerC-x8-C-x5-C-x3-Htype(andsimilar)
+399,PF00643,B-boxzincfinger
+400,PF00644,Poly(ADP-ribose)polymerasecatalyticdomain
+401,PF00646,F-boxdomain
+402,PF00648,Calpainfamilycysteineprotease
+403,PF00650,CRAL/TRIOdomain
+404,PF00651,BTB/POZdomain
+405,PF00653,InhibitorofApoptosisdomain
+406,PF00657,GDSL-likeLipase/Acylhydrolase
+407,PF00658,Poly-adenylatebindingprotein: uniquedomain
+408,PF00659,POLOboxduplicatedregion
+409,PF00660,SeripauperinandTIP1family
+410,PF00662,NADH-Ubiquinoneoxidoreductase(complexI): chain5N-terminus
+411,PF00664,ABCtransportertransmembraneregion
+412,PF00665,Integrasecoredomain
+413,PF00667,FADbindingdomain
+414,PF00668,Condensationdomain
+415,PF00675,Insulinase(PeptidasefamilyM16)
+416,PF00676,DehydrogenaseE1component
+417,PF00679,ElongationfactorGC-terminus
+418,PF00681,Plectinrepeat
+419,PF00682,HMGL-like
+420,PF00683,TBdomain
+421,PF00685,Sulfotransferasedomain
+422,PF00686,Starchbindingdomain
+423,PF00687,RibosomalproteinL1p/L10efamily
+424,PF00688,TGF-betapropeptide
+425,PF00689,CationtransportingATPase: C-terminus
+426,PF00690,Cationtransporter/ATPase: N-terminus
+427,PF00694,AconitaseC-terminaldomain
+428,PF00696,Aminoacidkinasefamily
+429,PF00698,Acyltransferasedomain
+430,PF00703,Glycosylhydrolasesfamily2
+431,PF00704,Glycosylhydrolasesfamily18
+432,PF00717,PeptidaseS24-like
+433,PF00719,Inorganicpyrophosphatase
+434,PF00722,Glycosylhydrolasesfamily16
+435,PF00723,Glycosylhydrolasesfamily15
+436,PF00724,NADH:flavinoxidoreductase/NADHoxidasefamily
+437,PF00730,HhH-GPDsuperfamilybaseexcisionDNArepairprotein
+438,PF00732,GMCoxidoreductase
+439,PF00733,Asparaginesynthase
+440,PF00734,Fungalcellulosebindingdomain
+441,PF00735,Septin
+442,PF00743,Flavin-bindingmonooxygenase-like
+443,PF00748,Calpaininhibitor
+444,PF00749,tRNAsynthetasesclassI(EandQ): catalyticdomain
+445,PF00750,tRNAsynthetasesclassI(R)
+446,PF00751,DMDNAbindingdomain
+447,PF00753,Metallo-beta-lactamasesuperfamily
+448,PF00754,F5/8typeCdomain
+449,PF00757,Furin-likecysteinerichregion
+450,PF00759,Glycosylhydrolasefamily9
+451,PF00762,Ferrochelatase
+452,PF00763,Tetrahydrofolatedehydrogenase/cyclohydrolase: catalyticdomain
+453,PF00766,ElectrontransferflavoproteinFAD-bindingdomain
+454,PF00769,Ezrin/radixin/moesinfamily
+455,PF00775,Dioxygenase
+456,PF00777,Glycosyltransferasefamily29(sialyltransferase)
+457,PF00778,DIXdomain
+458,PF00780,CNHdomain
+459,PF00781,Diacylglycerolkinasecatalyticdomain
+460,PF00782,Dualspecificityphosphatase: catalyticdomain
+461,PF00786,P21-Rho-bindingdomain
+462,PF00787,PXdomain
+463,PF00788,Rasassociation(RalGDS/AF-6)domain
+464,PF00789,UBXdomain
+465,PF00790,VHSdomain
+466,PF00792,Phosphoinositide3-kinaseC2
+467,PF00794,PI3-kinasefamily: ras-bindingdomain
+468,PF00801,PKDdomain
+469,PF00804,Syntaxin
+470,PF00806,Pumilio-familyRNAbindingrepeat
+471,PF00808,Histone-liketranscriptionfactor(CBF/NF-Y)andarchaealhistone
+472,PF00810,ERlumenproteinretainingreceptor
+473,PF00812,Ephrin
+474,PF00821,PhosphoenolpyruvatecarboxykinaseC-terminalP-loopdomain
+475,PF00822,PMP-22/EMP/MP20/Claudinfamily
+476,PF00828,Ribosomalproteins50S-L15: 50S-L18e: 60S-L27A
+477,PF00833,RibosomalS17
+478,PF00835,SNAP-25family
+479,PF00839,Cysteinerichrepeat
+480,PF00840,Glycosylhydrolasefamily7
+481,PF00847,AP2domain
+482,PF00849,RNApseudouridylatesynthase
+483,PF00850,Histonedeacetylasedomain
+484,PF00852,Glycosyltransferasefamily10(fucosyltransferase)C-term
+485,PF00853,Runtdomain
+486,PF00854,POTfamily
+487,PF00855,PWWPdomain
+488,PF00856,SETdomain
+489,PF00857,Isochorismatasefamily
+490,PF00858,Amiloride-sensitivesodiumchannel
+491,PF00859,CTF/NF-Ifamilytranscriptionmodulationregion
+492,PF00860,Permeasefamily
+493,PF00864,ATPP2Xreceptor
+494,PF00868,Transglutaminasefamily
+495,PF00875,DNAphotolyase
+496,PF00876,Innexin
+497,PF00878,Cation-independentmannose-6-phosphatereceptorrepeat
+498,PF00880,Nebulinrepeat
+499,PF00884,Sulfatase
+500,PF00886,RibosomalproteinS16
+501,PF00887,AcylCoAbindingprotein
+502,PF00888,Cullinfamily
+503,PF00890,FADbindingdomain
+504,PF00891,O-methyltransferasedomain
+505,PF00892,EamA-liketransporterfamily
+506,PF00895,ATPsynthaseprotein8
+507,PF00899,ThiFfamily
+508,PF00907,T-box
+509,PF00909,AmmoniumTransporterFamily
+510,PF00916,Sulfatepermeasefamily
+511,PF00917,MATHdomain
+512,PF00919,UncharacterizedproteinfamilyUPF0004
+513,PF00923,Transaldolase/Fructose-6-phosphatealdolase
+514,PF00927,Transglutaminasefamily: C-terminaliglikedomain
+515,PF00928,Adaptorcomplexesmediumsubunitfamily
+516,PF00929,Exonuclease
+517,PF00930,DipeptidylpeptidaseIV(DPPIV)N-terminalregion
+518,PF00931,NB-ARCdomain
+519,PF00933,Glycosylhydrolasefamily3Nterminaldomain
+520,PF00941,FADbindingdomaininmolybdopterindehydrogenase
+521,PF00953,Glycosyltransferasefamily4
+522,PF00957,Synaptobrevin
+523,PF00958,GMPsynthaseCterminaldomain
+524,PF00962,Adenosine/AMPdeaminase
+525,PF00969,ClassIIhistocompatibilityantigen: betadomain
+526,PF00970,OxidoreductaseFAD-bindingdomain
+527,PF00975,Thioesterasedomain
+528,PF00976,CorticotropinACTHdomain
+529,PF00982,Glycosyltransferasefamily20
+530,PF00984,UDP-glucose/GDP-mannosedehydrogenasefamily: centraldomain
+531,PF00985,MerozoiteSurfaceAntigen2(MSA-2)family
+532,PF00988,Carbamoyl-phosphatesynthasesmallchain: CPSasedomain
+533,PF00989,PASfold
+534,PF00992,Troponin
+535,PF00993,ClassIIhistocompatibilityantigen: alphadomain
+536,PF00994,Probablemolybdopterinbindingdomain
+537,PF00996,GDPdissociationinhibitor
+538,PF00999,Sodium/hydrogenexchangerfamily
+539,PF01007,Inwardrectifierpotassiumchanneltransmembranedomain
+540,PF01008,Initiationfactor2subunitfamily
+541,PF01010,NADH-dehyrogenasesubunitF: TMs: (complexI)C-terminus
+542,PF01012,Electrontransferflavoproteindomain
+543,PF01014,Uricase
+544,PF01016,RibosomalL27protein
+545,PF01017,STATprotein: all-alphadomain
+546,PF01019,Gamma-glutamyltranspeptidase
+547,PF01023,S-100/ICaBPtypecalciumbindingdomain
+548,PF01025,GrpE
+549,PF01026,TatDrelatedDNase
+550,PF01027,Inhibitorofapoptosis-promotingBax1
+551,PF01030,ReceptorLdomain
+552,PF01034,Syndecandomain
+553,PF01039,Carboxyltransferasedomain
+554,PF01040,UbiAprenyltransferasefamily
+555,PF01042,EndoribonucleaseL-PSP
+556,PF01044,Vinculinfamily
+557,PF01048,Phosphorylasesuperfamily
+558,PF01049,Cadherincytoplasmicregion
+559,PF01058,NADHubiquinoneoxidoreductase: 20Kdsubunit
+560,PF01059,NADH-ubiquinoneoxidoreductasechain4: aminoterminus
+561,PF01060,Transthyretin-likefamily
+562,PF01061,ABC-2typetransporter
+563,PF01062,Bestrophin: RFP-TM: chloridechannel
+564,PF01063,Amino-transferaseclassIV
+565,PF01064,ActivintypesIandIIreceptordomain
+566,PF01066,CDP-alcoholphosphatidyltransferase
+567,PF01067,Calpainlargesubunit: domainIII
+568,PF01070,FMN-dependentdehydrogenase
+569,PF01073,3-betahydroxysteroiddehydrogenase/isomerasefamily
+570,PF01077,Nitriteandsulphitereductase4Fe-4Sdomain
+571,PF01080,Presenilin
+572,PF01081,KDPGandKHGaldolase
+573,PF01082,CoppertypeIIascorbate-dependentmonooxygenase: N-terminaldomain
+574,PF01084,RibosomalproteinS18
+575,PF01088,Ubiquitincarboxyl-terminalhydrolase: family1
+576,PF01094,Receptorfamilyligandbindingregion
+577,PF01095,Pectinesterase
+578,PF01096,TranscriptionfactorS-II(TFIIS)
+579,PF01105,emp24/gp25L/p24family/GOLD
+580,PF01112,Asparaginase
+581,PF01120,Alpha-L-fucosidase
+582,PF01128,2-C-methyl-D-erythritol4-phosphatecytidylyltransferase
+583,PF01129,NAD:arginineADP-ribosyltransferase
+584,PF01130,CD36family
+585,PF01131,DNAtopoisomerase
+586,PF01133,Enhancerofrudimentary
+587,PF01134,GlucoseinhibiteddivisionproteinA
+588,PF01136,PeptidasefamilyU32
+589,PF01137,RNA3'-terminalphosphatecyclase
+590,PF01138,3'exoribonucleasefamily: domain1
+591,PF01139,tRNA-splicingligaseRtcB
+592,PF01145,SPFHdomain/Band7family
+593,PF01150,GDA1/CD39(nucleosidephosphatase)family
+594,PF01151,GNS1/SUR4family
+595,PF01153,Glypican
+596,PF01154,Hydroxymethylglutaryl-coenzymeAsynthaseNterminal
+597,PF01156,Inosine-uridinepreferringnucleosidehydrolase
+598,PF01157,RibosomalproteinL21e
+599,PF01158,RibosomalproteinL36e
+600,PF01161,Phosphatidylethanolamine-bindingprotein
+601,PF01165,RibosomalproteinS21
+602,PF01166,TSC-22/dip/bunfamily
+603,PF01167,Tubfamily
+604,PF01168,Alanineracemase: N-terminaldomain
+605,PF01170,PutativeRNAmethylasefamilyUPF0020
+606,PF01171,PP-loopfamily
+607,PF01172,Shwachman-Bodian-Diamondsyndrome(SBDS)protein
+608,PF01182,Glucosamine-6-phosphateisomerases/6-phosphogluconolactonase
+609,PF01184,GPR1/FUN34/yaaHfamily
+610,PF01187,Macrophagemigrationinhibitoryfactor(MIF)
+611,PF01189,16SrRNAmethyltransferaseRsmB/F
+612,PF01192,RNApolymeraseRpb6
+613,PF01193,RNApolymeraseRpb3/Rpb11dimerisationdomain
+614,PF01194,RNApolymerasesN/8kDasubunit
+615,PF01198,RibosomalproteinL31e
+616,PF01201,RibosomalproteinS8e
+617,PF01202,Shikimatekinase
+618,PF01204,Trehalase
+619,PF01207,Dihydrouridinesynthase(Dus)
+620,PF01210,NAD-dependentglycerol-3-phosphatedehydrogenaseN-terminus
+621,PF01213,Adenylatecyclaseassociated(CAP)Nterminal
+622,PF01217,Clathrinadaptorcomplexsmallchain
+623,PF01218,CoproporphyrinogenIIIoxidase
+624,PF01221,Dyneinlightchaintype1
+625,PF01223,DNA/RNAnon-specificendonuclease
+626,PF01225,Murligasefamily: catalyticdomain
+627,PF01230,HITdomain
+628,PF01231,Indoleamine2: 3-dioxygenase
+629,PF01234,NNMT/PNMT/TEMTfamily
+630,PF01237,Oxysterol-bindingprotein
+631,PF01238,PhosphomannoseisomerasetypeI
+632,PF01239,Proteinprenyltransferasealphasubunitrepeat
+633,PF01245,RibosomalproteinL19
+634,PF01246,RibosomalproteinL24e
+635,PF01248,RibosomalproteinL7Ae/L30e/S12e/Gadd45family
+636,PF01249,RibosomalproteinS21e
+637,PF01251,RibosomalproteinS7e
+638,PF01265,Cytochromec/c1hemelyase
+639,PF01266,FADdependentoxidoreductase
+640,PF01269,Fibrillarin
+641,PF01273,LBP/BPI/CETPfamily: N-terminaldomain
+642,PF01274,Malatesynthase
+643,PF01279,Parathyroidhormonefamily
+644,PF01287,Eukaryoticelongationfactor5Ahypusine: DNA-bindingOBfold
+645,PF01290,Thymosinbeta-4family
+646,PF01300,Telomererecombination
+647,PF01302,CAP-Glydomain
+648,PF01328,Peroxidase: family2
+649,PF01335,Deatheffectordomain
+650,PF01336,OB-foldnucleicacidbindingdomain
+651,PF01344,Kelchmotif
+652,PF01348,TypeIIintronmaturase
+653,PF01352,KRABbox
+654,PF01357,ExpansinC-terminaldomain
+655,PF01359,Transposase(partialDDEdomain)
+656,PF01363,FYVEzincfinger
+657,PF01365,RIHdomain
+658,PF01369,Sec7domain
+659,PF01370,NADdependentepimerase/dehydratasefamily
+660,PF01380,SISdomain
+661,PF01384,Phosphatetransporterfamily
+662,PF01388,ARID/BRIGHTDNAbindingdomain
+663,PF01390,SEAdomain
+664,PF01391,Collagentriplehelixrepeat(20copies)
+665,PF01392,Fzdomain
+666,PF01394,Clathrinpropellerrepeat
+667,PF01395,PBP/GOBPfamily
+668,PF01397,Terpenesynthase: N-terminaldomain
+669,PF01398,JAB1/Mov34/MPN/PAD-1ubiquitinprotease
+670,PF01399,PCIdomain
+671,PF01400,Astacin(PeptidasefamilyM12A)
+672,PF01401,Angiotensin-convertingenzyme
+673,PF01403,Semadomain
+674,PF01404,Ephrinreceptorligandbindingdomain
+675,PF01405,PhotosystemIIreactioncentreTprotein
+676,PF01409,tRNAsynthetasesclassIIcoredomain(F)
+677,PF01411,tRNAsynthetasesclassII(A)
+678,PF01412,PutativeGTPaseactivatingproteinforArf
+679,PF01413,C-terminaltandemrepeateddomainintype4procollagen
+680,PF01415,Interleukin7
+681,PF01417,ENTHdomain
+682,PF01419,Jacalin-likelectindomain
+683,PF01422,NF-X1typezincfinger
+684,PF01423,LSMdomain
+685,PF01424,R3Hdomain
+686,PF01425,Amidase
+687,PF01426,BAHdomain
+688,PF01428,AN1-likeZincfinger
+689,PF01431,PeptidasefamilyM13
+690,PF01432,PeptidasefamilyM3
+691,PF01433,PeptidasefamilyM1domain
+692,PF01434,PeptidasefamilyM41
+693,PF01436,NHLrepeat
+694,PF01437,Plexinrepeat
+695,PF01442,ApolipoproteinA1/A4/Edomain
+696,PF01448,ELM2domain
+697,PF01451,Lowmolecularweightphosphotyrosineproteinphosphatase
+698,PF01453,D-mannosebindinglectin
+699,PF01454,MAGEfamily
+700,PF01457,Leishmanolysin
+701,PF01458,SUFsystemFeSclusterassembly: SufBD
+702,PF01459,Eukaryoticporin
+703,PF01462,LeucinerichrepeatN-terminaldomain
+704,PF01463,LeucinerichrepeatC-terminaldomain
+705,PF01465,GRIPdomain
+706,PF01466,Skp1family: dimerisationdomain
+707,PF01467,Cytidylyltransferase-like
+708,PF01476,LysMdomain
+709,PF01479,S4domain
+710,PF01480,PWIdomain
+711,PF01483,ProproteinconvertaseP-domain
+712,PF01485,IBRdomain: ahalfRING-fingerdomain
+713,PF01486,K-boxregion
+714,PF01490,Transmembraneaminoacidtransporterprotein
+715,PF01494,FADbindingdomain
+716,PF01501,Glycosyltransferasefamily8
+717,PF01503,Phosphoribosyl-ATPpyrophosphohydrolase
+718,PF01504,Phosphatidylinositol-4-phosphate5-Kinase
+719,PF01505,MajorVaultProteinrepeatdomain
+720,PF01507,Phosphoadenosinephosphosulfatereductasefamily
+721,PF01509,TruBfamilypseudouridylatesynthase(Nterminaldomain)
+722,PF01522,Polysaccharidedeacetylase
+723,PF01529,DHHCpalmitoyltransferase
+724,PF01530,Zincfinger: C2HCtype
+725,PF01532,Glycosylhydrolasefamily47
+726,PF01534,Frizzled/Smoothenedfamilymembraneregion
+727,PF01535,PPRrepeat
+728,PF01544,CorA-likeMg2+transporterprotein
+729,PF01545,Cationeffluxfamily
+730,PF01546,PeptidasefamilyM20/M25/M40
+731,PF01549,ShKdomain-like
+732,PF01553,Acyltransferase
+733,PF01554,MatE
+734,PF01556,DnaJCterminaldomain
+735,PF01559,Zeinseedstorageprotein
+736,PF01562,Reprolysinfamilypropeptide
+737,PF01565,FADbindingdomain
+738,PF01569,PAP2superfamily
+739,PF01571,Aminomethyltransferasefolate-bindingdomain
+740,PF01576,Myosintail
+741,PF01578,CytochromeCassemblyprotein
+742,PF01579,Domainofunknownfunction(DUF19)
+743,PF01581,FMRFamiderelatedpeptidefamily
+744,PF01582,TIRdomain
+745,PF01585,G-patchdomain
+746,PF01588,PutativetRNAbindingdomain
+747,PF01590,GAFdomain
+748,PF01591,6-phosphofructo-2-kinase
+749,PF01592,NifU-likeNterminaldomain
+750,PF01593,Flavincontainingamineoxidoreductase
+751,PF01595,CyclinMtransmembraneN-terminaldomain
+752,PF01597,GlycinecleavageH-protein
+753,PF01599,RibosomalproteinS27a
+754,PF01602,AdaptinNterminalregion
+755,PF01603,Proteinphosphatase2AregulatoryBsubunit(B56family)
+756,PF01607,ChitinbindingPeritrophin-Adomain
+757,PF01608,I/LWEQdomain
+758,PF01612,3'-5'exonuclease
+759,PF01624,MutSdomainI
+760,PF01630,Hyaluronidase
+761,PF01636,Phosphotransferaseenzymefamily
+762,PF01643,Acyl-ACPthioesterase
+763,PF01644,Chitinsynthase
+764,PF01650,PeptidaseC13family
+765,PF01652,Eukaryoticinitiationfactor4E
+766,PF01655,RibosomalproteinL32
+767,PF01657,Saltstressresponse/antifungal
+768,PF01661,Macrodomain
+769,PF01663,TypeIphosphodiesterase/nucleotidepyrophosphatase
+770,PF01676,Metalloenzymesuperfamily
+771,PF01681,C6domain
+772,PF01682,DBmodule
+773,PF01683,EBmodule
+774,PF01687,Riboflavinkinase
+775,PF01694,Rhomboidfamily
+776,PF01697,Glycosyltransferasefamily92
+777,PF01699,Sodium/calciumexchangerprotein
+778,PF01701,PhotosystemIreactioncentresubunitIX/PsaJ
+779,PF01704,UTP--glucose-1-phosphateuridylyltransferase
+780,PF01709,Transcriptionalregulator
+781,PF01722,BolA-likeprotein
+782,PF01728,FtsJ-likemethyltransferase
+783,PF01734,Patatin-likephospholipase
+784,PF01735,Lysophospholipasecatalyticdomain
+785,PF01737,YCF9
+786,PF01738,Dienelactonehydrolasefamily
+787,PF01740,STASdomain
+788,PF01746,tRNA(Guanine-1)-methyltransferase
+789,PF01751,Toprimdomain
+790,PF01753,MYNDfinger
+791,PF01754,A20-likezincfinger
+792,PF01756,Acyl-CoAoxidase
+793,PF01757,Acyltransferasefamily
+794,PF01759,UNC-6/NTR/C345Cmodule
+795,PF01761,3-dehydroquinatesynthase
+796,PF01762,Galactosyltransferase
+797,PF01764,Lipase(class3)
+798,PF01765,Ribosomerecyclingfactor
+799,PF01770,Reducedfolatecarrier
+800,PF01773,Na+dependentnucleosidetransporterN-terminus
+801,PF01775,Ribosomalproteins50S-L18Ae/60S-L20/60S-L18A
+802,PF01778,RibosomalL28eproteinfamily
+803,PF01782,RimMN-terminaldomain
+804,PF01783,RibosomalL32pproteinfamily
+805,PF01788,PsbJ
+806,PF01794,Ferricreductaseliketransmembranecomponent
+807,PF01798,snoRNAbindingdomain: fibrillarin
+808,PF01799,[2Fe-2S]bindingdomain
+809,PF01805,Surpmodule
+810,PF01812,5-formyltetrahydrofolatecyclo-ligasefamily
+811,PF01813,ATPsynthasesubunitD
+812,PF01822,WSCdomain
+813,PF01824,MatK/TrnKaminoterminalregion
+814,PF01825,GPCRproteolysissite: GPS: motif
+815,PF01826,TrypsinInhibitorlikecysteinerichdomain
+816,PF01833,IPT/TIGdomain
+817,PF01839,FG-GAPrepeat
+818,PF01840,TCL1/MTCP1family
+819,PF01842,ACTdomain
+820,PF01843,DILdomain
+821,PF01846,FFdomain
+822,PF01847,VHLbetadomain
+823,PF01849,NACdomain
+824,PF01852,STARTdomain
+825,PF01858,Retinoblastoma-associatedproteinAdomain
+826,PF01873,DomainfoundinIF2B/IF5
+827,PF01900,Rpp14/Pop5family
+828,PF01902,Diphthamidesynthase
+829,PF01907,RibosomalproteinL37e
+830,PF01916,Deoxyhypusinesynthase
+831,PF01920,Prefoldinsubunit
+832,PF01925,SulfiteexporterTauE/SafE
+833,PF01926,50Sribosome-bindingGTPase
+834,PF01929,RibosomalproteinL14
+835,PF01951,Archeaseproteinfamily(MTH1598/TM1083)
+836,PF01956,IntegralmembraneproteinEMC3/TMCO1-like
+837,PF01963,TraBfamily
+838,PF01965,DJ-1/PfpIfamily
+839,PF01966,HDdomain
+840,PF01968,Hydantoinase/oxoprolinase
+841,PF01974,tRNAintronendonuclease: catalyticC-terminaldomain
+842,PF01979,Amidohydrolasefamily
+843,PF02005,N2: N2-dimethylguanosinetRNAmethyltransferase
+844,PF02009,Rifin
+845,PF02010,REJdomain
+846,PF02014,Reelerdomain
+847,PF02017,CIDE-Ndomain
+848,PF02020,eIF4-gamma/eIF5/eIF2-epsilon
+849,PF02023,SCANdomain
+850,PF02026,RyRdomain
+851,PF02036,SCP-2steroltransferfamily
+852,PF02037,SAPdomain
+853,PF02042,RWP-RKdomain
+854,PF02046,CytochromecoxidasesubunitVIa
+855,PF02076,PheromoneAreceptor
+856,PF02084,Bindin
+857,PF02089,Palmitoylproteinthioesterase
+858,PF02095,Extensin-likeproteinrepeat
+859,PF02096,60Kdinnermembraneprotein
+860,PF02099,Josephin
+861,PF02104,SURF1family
+862,PF02109,DADfamily
+863,PF02112,cAMPphosphodiesterasesclass-II
+864,PF02114,Phosducin
+865,PF02116,FungalpheromonematingfactorSTE2GPCR
+866,PF02121,Phosphatidylinositoltransferprotein
+867,PF02130,UncharacterizedproteinfamilyUPF0054
+868,PF02135,TAZzincfinger
+869,PF02136,Nucleartransportfactor2(NTF2)domain
+870,PF02137,Adenosine-deaminase(editase)domain
+871,PF02138,Beige/BEACHdomain
+872,PF02140,Galactosebindinglectindomain
+873,PF02141,DENN(AEX-3)domain
+874,PF02145,Rap/ran-GAP
+875,PF02146,Sir2family
+876,PF02148,Zn-fingerinubiquitin-hydrolasesandotherprotein
+877,PF02149,Kinaseassociateddomain1
+878,PF02151,UvrB/uvrCmotif
+879,PF02153,Prephenatedehydrogenase
+880,PF02156,Glycosylhydrolasefamily26
+881,PF02167,CytochromeC1family
+882,PF02170,PAZdomain
+883,PF02171,Piwidomain
+884,PF02174,PTBdomain(IRS-1type)
+885,PF02176,TRAF-typezincfinger
+886,PF02179,BAGdomain
+887,PF02180,Bcl-2homologyregion4
+888,PF02181,ForminHomology2Domain
+889,PF02183,Homeoboxassociatedleucinezipper
+890,PF02184,HAT(Half-A-TPR)repeat
+891,PF02185,Hr1repeat
+892,PF02187,Growth-Arrest-SpecificProtein2Domain
+893,PF02188,GoLocomotif
+894,PF02190,ATP-dependentproteaseLa(LON)substrate-bindingdomain
+895,PF02191,Olfactomedin-likedomain
+896,PF02194,PXAdomain
+897,PF02195,ParB-likenucleasedomain
+898,PF02196,Raf-likeRas-bindingdomain
+899,PF02198,Sterilealphamotif(SAM)/Pointeddomain
+900,PF02199,SaposinA-typedomain
+901,PF02201,SWIB/MDM2domain
+902,PF02204,Vacuolarsortingprotein9(VPS9)domain
+903,PF02205,WH2motif
+904,PF02207,PutativezincfingerinN-recognin(UBRbox)
+905,PF02208,Sorbinhomologousdomain
+906,PF02209,Villinheadpiecedomain
+907,PF02210,LamininGdomain
+908,PF02212,DynaminGTPaseeffectordomain
+909,PF02214,BTB/POZdomain
+910,PF02219,Methylenetetrahydrofolatereductase
+911,PF02221,MLdomain
+912,PF02230,Phospholipase/Carboxylesterase
+913,PF02234,Cyclin-dependentkinaseinhibitor
+914,PF02244,Carboxypeptidaseactivationpeptide
+915,PF02252,Proteasomeactivatorpa28betasubunit
+916,PF02254,TrkA-Ndomain
+917,PF02259,FATdomain
+918,PF02260,FATCdomain
+919,PF02262,CBLproto-oncogeneN-terminaldomain1
+920,PF02290,Signalrecognitionparticle14kDprotein
+921,PF02296,AlphaadaptinAP2: C-terminaldomain
+922,PF02297,CytochromeoxidasecsubunitVIb
+923,PF02301,HORMAdomain
+924,PF02309,AUX/IAAfamily
+925,PF02318,FYVE-typezincfinger
+926,PF02338,OTU-likecysteineprotease
+927,PF02341,RbcXprotein
+928,PF02347,GlycinecleavagesystemP-protein
+929,PF02348,Cytidylyltransferase
+930,PF02354,LatrophilinCytoplasmicC-terminalregion
+931,PF02362,B3DNAbindingdomain
+932,PF02363,Cysteinerichrepeat
+933,PF02364,1: 3-beta-glucansynthasecomponent
+934,PF02366,Dolichyl-phosphate-mannose-proteinmannosyltransferase
+935,PF02373,JmjCdomain: hydroxylase
+936,PF02376,CUTdomain
+937,PF02383,SacIhomologydomain
+938,PF02390,Putativemethyltransferase
+939,PF02392,Ycf4
+940,PF02412,Thrombospondintype3repeat
+941,PF02419,PsbLprotein
+942,PF02430,Apicalmembraneantigen1
+943,PF02434,Fringe-like
+944,PF02437,SKI/SNO/DACfamily
+945,PF02453,Reticulon
+946,PF02458,Transferasefamily
+947,PF02460,Patchedfamily
+948,PF02463,RecF/RecN/SMCNterminaldomain
+949,PF02466,Tim17/Tim22/Tim23/Pmp24family
+950,PF02468,PhotosystemIIreactioncentreNprotein(psbN)
+951,PF02469,Fasciclindomain
+952,PF02475,Met-10+like-protein
+953,PF02485,Core-2/I-Branchingenzyme
+954,PF02493,MORNrepeat
+955,PF02513,Spin/SstyFamily
+956,PF02515,CoA-transferasefamilyIII
+957,PF02517,CPBPintramembranemetalloprotease
+958,PF02518,Histidinekinase-: DNAgyraseB-: andHSP90-likeATPase
+959,PF02519,Auxinresponsiveprotein
+960,PF02532,PhotosystemIIreactioncentreIprotein(PSII4.8kDaprotein)
+961,PF02536,mTERF
+962,PF02538,HydantoinaseB/oxoprolinase
+963,PF02540,NADsynthase
+964,PF02544,3-oxo-5-alpha-steroid4-dehydrogenase
+965,PF02586,SOSresponseassociatedpeptidase(SRAP)
+966,PF02615,Malate/L-lactatedehydrogenase
+967,PF02637,GatBdomain
+968,PF02666,Phosphatidylserinedecarboxylase
+969,PF02668,TaurinecatabolismdioxygenaseTauD: TfdAfamily
+970,PF02681,DivergentPAP2family
+971,PF02701,Dofdomain: zincfinger
+972,PF02705,K+potassiumtransporter
+973,PF02709,N-terminaldomainofgalactosyltransferase
+974,PF02714,Calcium-dependentchannel: 7TMregion: putativephosphate
+975,PF02728,Copperamineoxidase: N3domain
+976,PF02732,ERCC4domain
+977,PF02734,DAK2domain
+978,PF02736,MyosinN-terminalSH3-likedomain
+979,PF02737,3-hydroxyacyl-CoAdehydrogenase: NADbindingdomain
+980,PF02738,Molybdopterin-bindingdomainofaldehydedehydrogenase
+981,PF02752,Arrestin(orS-antigen): C-terminaldomain
+982,PF02755,RPELrepeat
+983,PF02757,YLPmotif
+984,PF02758,PAAD/DAPIN/Pyrindomain
+985,PF02759,RUNdomain
+986,PF02761,CBLproto-oncogeneN-terminus: EFhand-likedomain
+987,PF02769,AIRsynthaserelatedprotein: C-terminaldomain
+988,PF02770,Acyl-CoAdehydrogenase: middledomain
+989,PF02771,Acyl-CoAdehydrogenase: N-terminaldomain
+990,PF02772,S-adenosylmethioninesynthetase: centraldomain
+991,PF02773,S-adenosylmethioninesynthetase: C-terminaldomain
+992,PF02776,Thiaminepyrophosphateenzyme: N-terminalTPPbindingdomain
+993,PF02777,Iron/manganesesuperoxidedismutases: C-terminaldomain
+994,PF02779,Transketolase: pyrimidinebindingdomain
+995,PF02780,Transketolase: C-terminaldomain
+996,PF02781,Glucose-6-phosphatedehydrogenase: C-terminaldomain
+997,PF02782,FGGYfamilyofcarbohydratekinases: C-terminaldomain
+998,PF02784,Pyridoxal-dependentdecarboxylase: pyridoxalbindingdomain
+999,PF02785,BiotincarboxylaseC-terminaldomain
+1000,PF02786,Carbamoyl-phosphatesynthaseLchain: ATPbindingdomain
+1001,PF02787,Carbamoyl-phosphatesynthetaselargechain: oligomerisationdomain
+1002,PF02788,Ribulosebisphosphatecarboxylaselargechain: N-terminaldomain
+1003,PF02790,CytochromeCoxidasesubunitII: transmembranedomain
+1004,PF02792,Magonashiprotein
+1005,PF02797,Chalconeandstilbenesynthases: C-terminaldomain
+1006,PF02798,GlutathioneS-transferase: N-terminaldomain
+1007,PF02800,Glyceraldehyde3-phosphatedehydrogenase: C-terminaldomain
+1008,PF02801,Beta-ketoacylsynthase: C-terminaldomain
+1009,PF02806,Alphaamylase: C-terminalall-betadomain
+1010,PF02807,ATP:guanidophosphotransferase: N-terminaldomain
+1011,PF02809,Ubiquitininteractionmotif
+1012,PF02815,MIRdomain
+1013,PF02816,Alpha-kinasefamily
+1014,PF02820,mbtrepeat
+1015,PF02822,Antistasinfamily
+1016,PF02823,ATPsynthase: Delta/Epsilonchain: beta-sandwichdomain
+1017,PF02824,TGSdomain
+1018,PF02826,D-isomerspecific2-hydroxyaciddehydrogenase: NADbindingdomain
+1019,PF02828,L27domain
+1020,PF02840,Prp18domain
+1021,PF02843,Phosphoribosylglycinamidesynthetase: Cdomain
+1022,PF02845,CUEdomain
+1023,PF02847,MA3domain
+1024,PF02852,Pyridinenucleotide-disulphideoxidoreductase: dimerisationdomain
+1025,PF02854,MIF4Gdomain
+1026,PF02862,DDHDdomain
+1027,PF02865,STATprotein: proteininteractiondomain
+1028,PF02866,lactate/malatedehydrogenase: alpha/betaC-terminaldomain
+1029,PF02874,ATPsynthasealpha/betafamily: beta-barreldomain
+1030,PF02878,Phosphoglucomutase/phosphomannomutase: alpha/beta/alphadomainI
+1031,PF02879,Phosphoglucomutase/phosphomannomutase: alpha/beta/alphadomainII
+1032,PF02881,SRP54-typeprotein: helicalbundledomain
+1033,PF02882,Tetrahydrofolatedehydrogenase/cyclohydrolase: NAD(P)-bindingdomain
+1034,PF02883,AdaptinC-terminaldomain
+1035,PF02886,LBP/BPI/CETPfamily: C-terminaldomain
+1036,PF02887,Pyruvatekinase: alpha/betadomain
+1037,PF02889,Sec63Brldomain
+1038,PF02891,MIZ/SP-RINGzincfinger
+1039,PF02892,BEDzincfinger
+1040,PF02893,GRAMdomain
+1041,PF02894,Oxidoreductasefamily: C-terminalalpha/betadomain
+1042,PF02906,Irononlyhydrogenaselargesubunit: C-terminaldomain
+1043,PF02913,FADlinkedoxidases: C-terminaldomain
+1044,PF02926,THUMPdomain
+1045,PF02928,C5HC2zincfinger
+1046,PF02931,Neurotransmitter-gatedion-channelligandbindingdomain
+1047,PF02932,Neurotransmitter-gatedion-channeltransmembraneregion
+1048,PF02933,Celldivisionprotein48(CDC48): domain2
+1049,PF02936,CytochromecoxidasesubunitIV
+1050,PF02943,Ferredoxinthioredoxinreductasecatalyticbetachain
+1051,PF02944,BESSmotif
+1052,PF02949,7tmOdorantreceptor
+1053,PF02950,Conotoxin
+1054,PF02953,Tim10/DDPfamilyzincfinger
+1055,PF02958,Ecdysteroidkinase
+1056,PF02969,TATAboxbindingproteinassociatedfactor(TAF)
+1057,PF02970,TubulinbindingcofactorA
+1058,PF02978,Signalpeptidebindingdomain
+1059,PF02985,HEATrepeat
+1060,PF02987,Lateembryogenesisabundantprotein
+1061,PF02990,Endomembraneprotein70
+1062,PF02991,AutophagyproteinAtg8ubiquitinlike
+1063,PF02992,Transposasefamilytnp2
+1064,PF02995,Proteinofunknownfunction(DUF229)
+1065,PF02996,Prefoldinsubunit
+1066,PF03002,Somatostatin/Cortistatinfamily
+1067,PF03016,Exostosinfamily
+1068,PF03018,Dirigent-likeprotein
+1069,PF03022,Majorroyaljellyprotein
+1070,PF03024,Folatereceptorfamily
+1071,PF03028,DyneinheavychainregionD6P-loopdomain
+1072,PF03031,NLIinteractingfactor-likephosphatase
+1073,PF03032,Frogskinactivepeptidefamilysignalandpropeptide
+1074,PF03033,Glycosyltransferasefamily28N-terminaldomain
+1075,PF03034,Phosphatidylserinesynthase
+1076,PF03045,DANdomain
+1077,PF03051,PeptidaseC1-likefamily
+1078,PF03061,Thioesterasesuperfamily
+1079,PF03062,MBOAT: membrane-boundO-acyltransferasefamily
+1080,PF03071,GNT-Ifamily
+1081,PF03079,ARD/ARD'family
+1082,PF03083,Sugareffluxtransporterforintercellularexchange
+1083,PF03087,Arabidopsisproteinofunknownfunction
+1084,PF03089,Recombinationactivatingprotein2
+1085,PF03095,Phosphotyrosylphosphateactivator(PTPA)protein
+1086,PF03096,Ndrfamily
+1087,PF03097,BRO1-likedomain
+1088,PF03098,Animalhaemperoxidase
+1089,PF03104,DNApolymerasefamilyB: exonucleasedomain
+1090,PF03105,SPXdomain
+1091,PF03106,WRKYDNA-bindingdomain
+1092,PF03107,C1domain
+1093,PF03109,ABC1family
+1094,PF03110,SBPdomain
+1095,PF03114,BARdomain
+1096,PF03118,BacterialRNApolymerase: alphachainCterminaldomain
+1097,PF03124,EXSfamily
+1098,PF03125,C.elegansSreGprotein-coupledchemoreceptor
+1099,PF03126,Plus-3domain
+1100,PF03127,GATdomain
+1101,PF03129,Anticodonbindingdomain
+1102,PF03131,bZIPMaftranscriptionfactor
+1103,PF03133,Tubulin-tyrosineligasefamily
+1104,PF03134,TB2/DP1: HVA22family
+1105,PF03137,OrganicAnionTransporterPolypeptide(OATP)family
+1106,PF03140,Plantproteinofunknownfunction
+1107,PF03141,PutativeS-adenosyl-L-methionine-dependentmethyltransferase
+1108,PF03143,ElongationfactorTuC-terminaldomain
+1109,PF03144,ElongationfactorTudomain2
+1110,PF03145,Seveninabsentiaproteinfamily
+1111,PF03157,Highmolecularweightgluteninsubunit
+1112,PF03160,Calx-betadomain
+1113,PF03164,Vacuolar fusion protein Mon1
+1114,PF03165,MH1domain
+1115,PF03168,Lateembryogenesisabundantprotein
+1116,PF03171,2OG-Fe(II)oxygenasesuperfamily
+1117,PF03175,DNApolymerasetypeB: organellarandviral
+1118,PF03178,CPSFAsubunitregion
+1119,PF03184,DDEsuperfamilyendonuclease
+1120,PF03188,Eukaryoticcytochromeb561
+1121,PF03189,Otopetrin
+1122,PF03195,Lateralorganboundaries(LOB)domain
+1123,PF03198,Glucanosyltransferase
+1124,PF03221,Tc5transposaseDNA-bindingdomain
+1125,PF03232,UbiquinonebiosynthesisproteinCOQ7
+1126,PF03248,Rer1family
+1127,PF03250,Tropomodulin
+1128,PF03254,Xyloglucanfucosyltransferase
+1129,PF03259,Roadblock/LC7domain
+1130,PF03265,DeoxyribonucleaseII
+1131,PF03271,EB1-likeC-terminalmotif
+1132,PF03281,Mab-21protein
+1133,PF03291,mRNAcappingenzyme
+1134,PF03302,Giardiavariant-specificsurfaceprotein
+1135,PF03311,Cornichonprotein
+1136,PF03314,Proteinofunknownfunction: DUF273
+1137,PF03321,GH3auxin-responsivepromoter
+1138,PF03330,Lytictransglycolase
+1139,PF03344,DaxxN-terminalRassf1C-interactingdomain
+1140,PF03351,DOMONdomain
+1141,PF03353,Ras-mediatedvulval-inductionantagonist
+1142,PF03357,Snf7
+1143,PF03364,Polyketidecyclase/dehydraseandlipidtransport
+1144,PF03370,Carbohydrate/starch-bindingmodule(family21)
+1145,PF03371,PRP38family
+1146,PF03372,Endonuclease/Exonuclease/phosphatasefamily
+1147,PF03381,LEM3(ligand-effectmodulator3)family/CDC50family
+1148,PF03392,Insectpheromone-bindingfamily: A10/OS-D
+1149,PF03399,SAC3/GANPfamily
+1150,PF03402,Vomeronasalorganpheromonereceptorfamily: V1R
+1151,PF03435,SaccharopinedehydrogenaseNADPbindingdomain
+1152,PF03443,Glycosylhydrolasefamily61
+1153,PF03451,HELPmotif
+1154,PF03455,dDENNdomain
+1155,PF03456,uDENNdomain
+1156,PF03462,PCRFdomain
+1157,PF03464,eRF1domain2
+1158,PF03465,eRF1domain3
+1159,PF03467,Smg-4/UPF3family
+1160,PF03473,MOSCdomain
+1161,PF03476,MOSCN-terminalbetabarreldomain
+1162,PF03477,ATPconedomain
+1163,PF03478,Proteinofunknownfunction(DUF295)
+1164,PF03479,PlantsandProkaryotesConserved(PCC)domain
+1165,PF03483,B3/4domain
+1166,PF03484,tRNAsynthetaseB5domain
+1167,PF03489,Saposin-liketypeB: region2
+1168,PF03494,Beta-amyloidpeptide(beta-APP)
+1169,PF03501,Plectin/S10domain
+1170,PF03514,GRASdomainfamily
+1171,PF03520,KCNQvoltage-gatedpotassiumchannel
+1172,PF03522,Solutecarrierfamily12
+1173,PF03530,Calcium-activatedSKpotassiumchannel
+1174,PF03540,TranscriptioninitiationfactorTFIID23-30kDasubunit
+1175,PF03542,Tuberin
+1176,PF03547,Membranetransportprotein
+1177,PF03552,Cellulosesynthase
+1178,PF03556,Cullinbinding
+1179,PF03564,Proteinofunknownfunction(DUF1759)
+1180,PF03567,Sulfotransferasefamily
+1181,PF03572,PeptidasefamilyS41
+1182,PF03588,Leucyl/phenylalanyl-tRNAproteintransferase
+1183,PF03595,Voltage-dependentanionchannel
+1184,PF03607,Doublecortin
+1185,PF03619,OrganicsolutetransporterOstalpha
+1186,PF03630,Fumble
+1187,PF03634,TCPfamilytranscriptionfactor
+1188,PF03637,Mob1/phoceinfamily
+1189,PF03644,Glycosylhydrolasefamily85
+1190,PF03645,Tctex-1family
+1191,PF03647,Transmembraneproteins14C
+1192,PF03650,Mitochondrialpyruvatecarriers
+1193,PF03661,Transmembraneprotein33/NucleoporinPOM33
+1194,PF03662,Glycosylhydrolasefamily79: N-terminaldomain
+1195,PF03670,Uncharacterisedproteinfamily(UPF0184)
+1196,PF03700,Sortingnexin: N-terminaldomain
+1197,PF03723,Hemocyanin: ig-likedomain
+1198,PF03727,Hexokinase
+1199,PF03732,Retrotransposongagprotein
+1200,PF03736,EPTPdomain
+1201,PF03738,GlutathionylspermidinesynthasepreATP-grasp
+1202,PF03742,PetN
+1203,PF03762,VitellinemembraneouterlayerproteinI(VOMI)
+1204,PF03764,ElongationfactorG: domainIV
+1205,PF03770,Inositolpolyphosphatekinase
+1206,PF03781,Sulfatase-modifyingfactorenzyme1
+1207,PF03782,AMOPdomain
+1208,PF03784,Cyclotidefamily
+1209,PF03791,KNOX2domain
+1210,PF03800,Nuf2family
+1211,PF03807,NADPoxidoreductasecoenzymeF420-dependent
+1212,PF03810,Importin-betaN-terminaldomain
+1213,PF03813,Nrapproteindomain1
+1214,PF03822,NAFdomain
+1215,PF03828,Cid1familypolyApolymerase
+1216,PF03832,WSKmotif
+1217,PF03850,TranscriptionfactorTfb4
+1218,PF03856,Beta-glucosidase(SUNfamily)
+1219,PF03867,Fushitarazu(FTZ): N-terminalregion
+1220,PF03868,RibosomalproteinL6: N-terminaldomain
+1221,PF03874,RNApolymeraseRpb4
+1222,PF03876,SHS2domainfoundinNterminusofRpb7p/Rpc25p/MJ0397
+1223,PF03900,Porphobilinogendeaminase: C-terminaldomain
+1224,PF03901,Alg9-likemannosyltransferasefamily
+1225,PF03909,BSDdomain
+1226,PF03912,Psb28protein
+1227,PF03919,mRNAcappingenzyme: C-terminaldomain
+1228,PF03920,Groucho/TLEN-terminalQ-richdomain
+1229,PF03921,Intercellularadhesionmolecule(ICAM): N-terminaldomain
+1230,PF03924,CHASEdomain
+1231,PF03931,Skp1family: tetramerisationdomain
+1232,PF03932,CutCfamily
+1233,PF03936,Terpenesynthasefamily: metalbindingdomain
+1234,PF03937,Flavinatorofsuccinatedehydrogenase
+1235,PF03947,RibosomalProteinsL2: C-terminaldomain
+1236,PF03950,tRNAsynthetasesclassI(EandQ): anti-codonbindingdomain
+1237,PF03952,Enolase: N-terminaldomain
+1238,PF03953,TubulinC-terminaldomain
+1239,PF03962,Mnd1HTHdomain
+1240,PF03973,Triabin
+1241,PF03982,Diacylglycerolacyltransferase
+1242,PF03987,Autophagocytosisassociatedprotein: active-sitedomain
+1243,PF03997,VPS28protein
+1244,PF04000,Sas10/Utp3/C1Dfamily
+1245,PF04003,Dip2/Utp12Family
+1246,PF04004,Leo1-likeprotein
+1247,PF04005,Hus1-likeprotein
+1248,PF04037,Domainofunknownfunction(DUF382)
+1249,PF04042,DNApolymerasealpha/epsilonsubunitB
+1250,PF04043,Plantinvertase/pectinmethylesteraseinhibitor
+1251,PF04045,Arp2/3complex: 34kDsubunitp34-Arc
+1252,PF04050,Up-frameshiftsuppressor2
+1253,PF04051,Transportproteinparticle(TRAPP)component
+1254,PF04054,CCR4-Notcomplexcomponent: Not1
+1255,PF04055,RadicalSAMsuperfamily
+1256,PF04057,Replicationfactor-Aprotein1: N-terminaldomain
+1257,PF04062,ARP2/3complexARPC3(21kDa)subunit
+1258,PF04065,Not1N-terminaldomain: CCR4-Notcomplexcomponent
+1259,PF04068,PossibleFer4-likedomaininRNaseLinhibitor: RLI
+1260,PF04072,Leucinecarboxylmethyltransferase
+1261,PF04073,Aminoacyl-tRNAeditingdomain
+1262,PF04082,Fungalspecifictranscriptionfactordomain
+1263,PF04083,Partialalpha/beta-hydrolaselipaseregion
+1264,PF04089,BRICHOSdomain
+1265,PF04099,Sybindin-likefamily
+1266,PF04103,CD20-likefamily
+1267,PF04104,EukaryoticandarchaealDNAprimase: largesubunit
+1268,PF04109,AutophagyproteinApg9
+1269,PF04110,Ubiquitin-likeautophagyproteinApg12
+1270,PF04112,Mak10subunit: NatCN(alpha)-terminalacetyltransferase
+1271,PF04114,Gaa1-like: GPItransamidasecomponent
+1272,PF04116,Fattyacidhydroxylasesuperfamily
+1273,PF04117,Mpv17/PMP22family
+1274,PF04130,GammatubulincomplexcomponentC-terminal
+1275,PF04133,Vacuolarproteinsorting55
+1276,PF04136,Sec34-likefamily
+1277,PF04137,EndoplasmicReticulumOxidoreductin1(ERO1)
+1278,PF04140,Isoprenylcysteinecarboxylmethyltransferase(ICMT)family
+1279,PF04142,Nucleotide-sugartransporter
+1280,PF04146,YT521-B-likedomain
+1281,PF04153,NOT2/NOT3/NOT5family
+1282,PF04161,Arv1-likefamily
+1283,PF04178,Got1/Sft2-likefamily
+1284,PF04190,Proteinofunknownfunction(DUF410)
+1285,PF04191,Phospholipidmethyltransferase
+1286,PF04192,Utp21specificWD40associatedputativedomain
+1287,PF04193,PQlooprepeat
+1288,PF04194,Programmedcelldeathprotein2: C-terminalputativedomain
+1289,PF04209,homogentisate1: 2-dioxygenase
+1290,PF04212,MIT(microtubuleinteractingandtransport)domain
+1291,PF04218,CENP-BN-terminalDNA-bindingdomain
+1292,PF04263,Thiaminpyrophosphokinase: catalyticdomain
+1293,PF04265,Thiaminpyrophosphokinase: vitaminB1bindingdomain
+1294,PF04321,RmlDsubstratebindingdomain
+1295,PF04371,Porphyromonas-typepeptidyl-argininedeiminase
+1296,PF04383,KilA-Ndomain
+1297,PF04388,Hamartinprotein
+1298,PF04389,PeptidasefamilyM28
+1299,PF04406,TypeIIBDNAtopoisomerase
+1300,PF04408,Helicaseassociateddomain(HA2)
+1301,PF04419,4F5proteinrelateddisorderedregion
+1302,PF04420,CHD5-likeprotein
+1303,PF04433,SWIRMdomain
+1304,PF04437,RINT-1/TIP-1family
+1305,PF04444,CatecholdioxygenaseNterminus
+1306,PF04488,Glycosyltransferasesugar-bindingregioncontainingDXDmotif
+1307,PF04494,WD40associatedregioninTFIIDsubunit: NTD2domain
+1308,PF04500,FLYWCHzincfingerdomain
+1309,PF04502,Familyofunknownfunction(DUF572)
+1310,PF04505,Interferon-inducedtransmembraneprotein
+1311,PF04515,Plasma-membranecholinetransporter
+1312,PF04516,CP2transcriptionfactor
+1313,PF04520,Senescenceregulator
+1314,PF04525,LURP-one-related
+1315,PF04535,Domainofunknownfunction(DUF588)
+1316,PF04539,Sigma-70region3
+1317,PF04547,Calcium-activatedchloridechannel
+1318,PF04548,AIG1family
+1319,PF04560,RNApolymeraseRpb2: domain7
+1320,PF04563,RNApolymerasebetasubunit
+1321,PF04564,U-boxdomain
+1322,PF04565,RNApolymeraseRpb2: domain3
+1323,PF04566,RNApolymeraseRpb2: domain4
+1324,PF04567,RNApolymeraseRpb2: domain5
+1325,PF04568,MitochondrialATPaseinhibitor: IATP
+1326,PF04572,Alpha1: 4-glycosyltransferaseconservedregion
+1327,PF04573,Signalpeptidasesubunit
+1328,PF04577,Proteinofunknownfunction(DUF563)
+1329,PF04578,Proteinofunknownfunction: DUF594
+1330,PF04587,ADP-specificPhosphofructokinase/Glucokinaseconservedregion
+1331,PF04588,Hypoxiainducedproteinconservedregion
+1332,PF04592,SelenoproteinP: Nterminalregion
+1333,PF04598,Gasderminporeformingdomain
+1334,PF04621,PEA3subfamilyETS-domaintranscriptionfactorNterminaldomain
+1335,PF04626,Dec-1protein: Cterminalregion
+1336,PF04646,Proteinofunknownfunction: DUF604
+1337,PF04648,Yeastmatingfactoralphahormone
+1338,PF04667,cAMP-regulatedphosphoprotein/endosulfineconservedregion
+1339,PF04675,DNAligaseNterminus
+1340,PF04679,ATPdependentDNAligaseCterminalregion
+1341,PF04699,ARP2/3complex16kDasubunit(p16-Arc)
+1342,PF04709,Anti-Mullerianhormone: Nterminalregion
+1343,PF04710,Pellino
+1344,PF04712,Radialspokehead-likeprotein
+1345,PF04715,AnthranilatesynthasecomponentI: Nterminalregion
+1346,PF04727,ELMO/CED-12family
+1347,PF04731,Caudallikeproteinactivationregion
+1348,PF04732,Intermediatefilamenthead(DNAbinding)region
+1349,PF04739,5'-AMP-activatedproteinkinasebetasubunit: interactiondomain
+1350,PF04749,PLAC8family
+1351,PF04755,PAP_fibrillin
+1352,PF04756,OST3/OST6family: transporterfamily
+1353,PF04757,Pex2/Pex12aminoterminalregion
+1354,PF04769,Mating-typeproteinMATalpha1HMG-box
+1355,PF04776,ProteinMS5
+1356,PF04777,Erv1/Alrfamily
+1357,PF04782,Proteinofunknownfunction(DUF632)
+1358,PF04784,Proteinofunknownfunction: DUF547
+1359,PF04791,LMBR1-likemembraneprotein
+1360,PF04800,ETCcomplexIsubunitconservedregion
+1361,PF04801,Sin-likeproteinconservedregion
+1362,PF04803,Cor1/Xlr/Xmrconservedregion
+1363,PF04810,Sec23/Sec24zincfinger
+1364,PF04811,Sec23/Sec24trunkdomain
+1365,PF04815,Sec23/Sec24helicaldomain
+1366,PF04818,CIDdomain
+1367,PF04832,SOULheme-bindingprotein
+1368,PF04833,COBRA-likeprotein
+1369,PF04840,Vps16: C-terminalregion
+1370,PF04844,Transcriptionalrepressor: ovate
+1371,PF04849,HAP1N-terminalconservedregion
+1372,PF04880,NUDEprotein: C-terminalconservedregion
+1373,PF04884,VitaminB6photo-protectionandhomoeostasis
+1374,PF04900,Fcf1
+1375,PF04908,SH3-binding: glutamicacid-richprotein
+1376,PF04909,Amidohydrolase
+1377,PF04928,Poly(A)polymerasecentraldomain
+1378,PF04931,DNApolymerasephi
+1379,PF04939,Ribosomebiogenesisregulatoryprotein(RRS1)
+1380,PF04961,Formiminotransferase-cyclodeaminase
+1381,PF04968,CHORD
+1382,PF04969,CSdomain
+1383,PF04970,Lecithinretinolacyltransferase
+1384,PF04979,Proteinphosphataseinhibitor2(IPP-2)
+1385,PF04983,RNApolymeraseRpb1: domain3
+1386,PF04992,RNApolymeraseRpb1: domain6
+1387,PF04997,RNApolymeraseRpb1: domain1
+1388,PF04998,RNApolymeraseRpb1: domain5
+1389,PF05000,RNApolymeraseRpb1: domain4
+1390,PF05001,RNApolymeraseRpb1C-terminalrepeat
+1391,PF05005,Janus/Ocnusfamily(Ocnus)
+1392,PF05008,Vesicletransportv-SNAREproteinN-terminus
+1393,PF05010,Transformingacidiccoiled-coil-containingprotein(TACC): C-terminal
+1394,PF05019,CoenzymeQ(ubiquinone)biosynthesisproteinCoq4
+1395,PF05022,SRP40: C-terminaldomain
+1396,PF05026,Dcp2: boxAdomain
+1397,PF05033,Pre-SETmotif
+1398,PF05039,Agoutiprotein
+1399,PF05041,Pecanexprotein(C-terminus)
+1400,PF05056,Proteinofunknownfunction(DUF674)
+1401,PF05060,N-acetylglucosaminyltransferaseII(MGAT2)
+1402,PF05089,Alpha-N-acetylglucosaminidase(NAGLU)tim-barreldomain
+1403,PF05091,Eukaryotictranslationinitiationfactor3subunit7(eIF-3)
+1404,PF05093,Cytokine-inducedanti-apoptosisinhibitor1: Fe-Sbiogenesis
+1405,PF05127,Helicase
+1406,PF05149,Paraflagellarrodprotein
+1407,PF05151,PhotosystemIIreactioncentreMprotein(PsbM)
+1408,PF05153,Myo-inositoloxygenase
+1409,PF05172,Nup53/35/40-typeRNArecognitionmotif
+1410,PF05175,Methyltransferasesmalldomain
+1411,PF05180,DNLzincfinger
+1412,PF05185,PRMT5arginine-N-methyltransferase
+1413,PF05186,Dpy-30motif
+1414,PF05191,Adenylatekinase: activesitelid
+1415,PF05192,MutSdomainIII
+1416,PF05193,PeptidaseM16inactivedomain
+1417,PF05198,TranslationinitiationfactorIF-3: N-terminaldomain
+1418,PF05199,GMCoxidoreductase
+1419,PF05208,ALG3protein
+1420,PF05210,Sproutyprotein(Spry)
+1421,PF05222,Alaninedehydrogenase/PNT: N-terminaldomain
+1422,PF05224,NDT80/PhoGlikeDNA-bindingfamily
+1423,PF05236,TranscriptioninitiationfactorTFIIDcomponentTAF4family
+1424,PF05253,U11-48K-likeCHHCzincfinger
+1425,PF05254,Uncharacterisedproteinfamily(UPF0203)
+1426,PF05255,Uncharacterisedproteinfamily(UPF0220)
+1427,PF05300,Proteinofunknownfunction(DUF737)
+1428,PF05361,PKC-activatedproteinphosphatase-1inhibitor
+1429,PF05368,NmrA-likefamily
+1430,PF05421,Proteinofunknownfunction(DUF751)
+1431,PF05424,Duffybindingdomain
+1432,PF05444,Proteinofunknownfunction(DUF753)
+1433,PF05450,Nicastrin
+1434,PF05460,Originrecognitioncomplexsubunit6(ORC6)
+1435,PF05470,Eukaryotictranslationinitiationfactor3subunit8N-terminus
+1436,PF05477,Surfeitlocusprotein2(SURF2)
+1437,PF05495,CHYzincfinger
+1438,PF05497,Destabilase
+1439,PF05498,RapidALkalinizationFactor(RALF)
+1440,PF05502,Dynactinp62family
+1441,PF05553,Cottonfibreexpressedprotein
+1442,PF05556,Calcineurin-bindingprotein(Calsarcin)
+1443,PF05577,SerinecarboxypeptidaseS28
+1444,PF05585,Putativepeptidase(DUF1758)
+1445,PF05602,Cleftlipandpalatetransmembraneprotein1(CLPTM1)
+1446,PF05603,Proteinofunknownfunction(DUF775)
+1447,PF05605,Droughtinduced19protein(Di19): zinc-binding
+1448,PF05615,Thocomplexsubunit7
+1449,PF05617,Prolamin-like
+1450,PF05622,HOOKproteincoiled-coilregion
+1451,PF05624,Lipolysisstimulatedreceptor(LSR)
+1452,PF05630,Necrosisinducingprotein(NPP1)
+1453,PF05631,Sugar-tranasporters: 12TM
+1454,PF05633,ProteinBYPASS1-related
+1455,PF05634,APORNA-binding
+1456,PF05640,Na: K-AtpaseInteractingprotein
+1457,PF05641,Agenetdomain
+1458,PF05645,RNApolymeraseIIIsubunitRPC82
+1459,PF05648,Peroxisomalbiogenesisfactor11(PEX11)
+1460,PF05649,PeptidasefamilyM13
+1461,PF05653,MagnesiumtransporterNIPA
+1462,PF05670,NFACTproteinRNAbindingdomain
+1463,PF05679,ChondroitinN-acetylgalactosaminyltransferase
+1464,PF05680,ATPsynthaseEchain
+1465,PF05686,Glycosyltransferasefamily90
+1466,PF05695,Plantproteinofunknownfunction(DUF825)
+1467,PF05698,Bacterialtriggerfactorprotein(TF)C-terminus
+1468,PF05699,hATfamilyC-terminaldimerisationregion
+1469,PF05705,Eukaryoticproteinofunknownfunction(DUF829)
+1470,PF05721,Phytanoyl-CoAdioxygenase(PhyH)
+1471,PF05725,FNIPRepeat
+1472,PF05726,PirinC-terminalcupindomain
+1473,PF05739,SNAREdomain
+1474,PF05758,Ycf1
+1475,PF05761,5'nucleotidasefamily
+1476,PF05773,RWDdomain
+1477,PF05783,Dyneinlightintermediatechain(DLIC)
+1478,PF05794,T-complexprotein11
+1479,PF05795,PlasmodiumvivaxVirprotein
+1480,PF05811,Eukaryoticproteinofunknownfunction(DUF842)
+1481,PF05821,NADH-ubiquinoneoxidoreductaseASHIsubunit(CI-ASHIorNDUFB8)
+1482,PF05839,Apc13pprotein
+1483,PF05843,Suppressorofforkedprotein(Suf)
+1484,PF05871,ESCRT-IIcomplexsubunit
+1485,PF05875,Ceramidase
+1486,PF05881,2': 3'-cyclicnucleotide3'-phosphodiesterase(CNPorCNPase)
+1487,PF05891,AdoMetdependentprolinedi-methyltransferase
+1488,PF05902,4.1proteinC-terminaldomain(CTD)
+1489,PF05903,PPPDEputativepeptidasedomain
+1490,PF05915,Eukaryoticproteinofunknownfunction(DUF872)
+1491,PF05920,HomeoboxKNdomain
+1492,PF05938,Plantself-incompatibilityproteinS1
+1493,PF05958,tRNA(Uracil-5-)-methyltransferase
+1494,PF05970,PIF1-likehelicase
+1495,PF05978,IonchannelregulatoryproteinUNC-93
+1496,PF05983,MED7protein
+1497,PF05994,CytoplasmicFragile-Xinteractingfamily
+1498,PF06001,DomainofUnknownFunction(DUF902)
+1499,PF06003,Survivalmotorneuronprotein(SMN)
+1500,PF06009,LamininDomainII
+1501,PF06012,DomainofUnknownFunction(DUF908)
+1502,PF06017,Unconventionalmyosintail: actin-andlipid-binding
+1503,PF06022,PlasmodiumvariantantigenproteinCir/Yir/Bir
+1504,PF06027,Solutecarrierfamily35
+1505,PF06031,SERTAmotif
+1506,PF06046,ExocystcomplexcomponentSec6
+1507,PF06047,NF-kappa-B-activatingproteinC-terminaldomain
+1508,PF06060,Pre-pro-megakaryocytepotentiatingfactorprecursor(Mesothelin)
+1509,PF06068,TIP49P-loopdomain
+1510,PF06079,Apyrase
+1511,PF06098,Radialspokeprotein3
+1512,PF06200,tifydomain
+1513,PF06201,PITHdomain
+1514,PF06220,U1zincfinger
+1515,PF06244,Coiled-coildomain-containingprotein124/Oxs1
+1516,PF06268,Fascindomain
+1517,PF06273,Plantspecificeukaryoticinitiationfactor4B
+1518,PF06297,PETDomain
+1519,PF06320,GCN5-likeprotein1(GCN5L1)
+1520,PF06337,DUSPdomain
+1521,PF06350,Hormone-sensitivelipase(HSL)N-terminus
+1522,PF06367,DiaphanousFH3Domain
+1523,PF06371,DiaphanousGTPase-bindingDomain
+1524,PF06418,CTPsynthaseN-terminus
+1525,PF06423,GWT1
+1526,PF06444,NADHdehydrogenasesubunit2C-terminus
+1527,PF06455,NADHdehydrogenasesubunit5C-terminus
+1528,PF06459,RyanodineReceptorTM4-6
+1529,PF06461,DomainofUnknownFunction(DUF1086)
+1530,PF06462,Propeller
+1531,PF06463,MolybdenumCofactorSynthesisC
+1532,PF06466,PCAF(P300/CBP-associatedfactor)N-terminaldomain
+1533,PF06467,MYM-typeZincfingerwithFCSsequencemotif
+1534,PF06470,SMCproteinsFlexibleHingeDomain
+1535,PF06472,ABCtransportertransmembraneregion2
+1536,PF06473,FGFbindingprotein1(FGF-BP1)
+1537,PF06507,Auxinresponsefactor
+1538,PF06512,Sodiumiontransport-associated
+1539,PF06522,NADH-ubiquinonereductasecomplex1MLRQsubunit
+1540,PF06535,Repulsiveguidancemolecule(RGM)N-terminus
+1541,PF06565,DUF1126PH-likedomain
+1542,PF06573,Churchillprotein
+1543,PF06582,Titinrepeat
+1544,PF06602,Myotubularin-likephosphatasedomain
+1545,PF06609,Fungaltrichotheceneeffluxpump(TRI12)
+1546,PF06624,RibosomeassociatedmembraneproteinRAMP4
+1547,PF06625,Proteinofunknownfunction(DUF1151)
+1548,PF06628,Catalase-relatedimmune-responsive
+1549,PF06631,Proteinofunknownfunction(DUF1154)
+1550,PF06644,ATP11protein
+1551,PF06645,Microsomalsignalpeptidase12kDasubunit(SPC12)
+1552,PF06650,SHR-bindingdomainofvacuolar-sortingassociatedprotein13
+1553,PF06658,Proteinofunknownfunction(DUF1168)
+1554,PF06697,Proteinofunknownfunction(DUF1191)
+1555,PF06708,Proteinofunknownfunction(DUF1195)
+1556,PF06733,DEAD_2
+1557,PF06747,CHCHdomain
+1558,PF06749,Proteinofunknownfunction(DUF1218)
+1559,PF06772,BacteriallowtemperaturerequirementAprotein(LtrA)
+1560,PF06784,Uncharacterisedproteinfamily(UPF0240)
+1561,PF06809,Neuralproliferationdifferentiationcontrol-1protein(NPDC1)
+1562,PF06813,Nodulin-like
+1563,PF06814,Lungseventransmembranereceptor
+1564,PF06839,GRFzincfinger
+1565,PF06842,Proteinofunknownfunction(DUF1242)
+1566,PF06862,Utp25: U3smallnucleolarRNA-associatedSSUprocessomeprotein25
+1567,PF06880,Proteinofunknownfunction(DUF1262)
+1568,PF06881,RNApolymeraseIItranscriptionfactorSIII(Elongin)subunitA
+1569,PF06910,Maleenhancedantigen1(MEA1)
+1570,PF06912,Proteinofunknownfunction(DUF1275)
+1571,PF06916,Proteinofunknownfunction(DUF1279)
+1572,PF06920,Dockhomologyregion2
+1573,PF06951,GroupXIIsecretoryphospholipaseA2precursor(PLA2G12)
+1574,PF06959,RecQhelicaseprotein-like5(RecQ5)
+1575,PF06964,Alpha-L-arabinofuranosidaseC-terminaldomain
+1576,PF06966,Proteinofunknownfunction(DUF1295)
+1577,PF06972,Proteinofunknownfunction(DUF1296)
+1578,PF06974,WS/DGATC-terminaldomain
+1579,PF06985,Heterokaryonincompatibilityprotein(HET)
+1580,PF06999,Sucrase/ferredoxin-like
+1581,PF07002,Copine
+1582,PF07004,Sperm-tailPG-richrepeat
+1583,PF07039,SGF29tudor-likedomain
+1584,PF07059,Proteinofunknownfunction(DUF1336)
+1585,PF07139,Proteinofunknownfunction(DUF1387)
+1586,PF07145,Ataxin-2C-terminalregion
+1587,PF07175,Osteoregulin
+1588,PF07177,Neuralized
+1589,PF07217,HeterokaryonincompatibilityproteinHet-C
+1590,PF07218,Rhoptry-associatedprotein1(RAP-1)
+1591,PF07228,StageIIsporulationproteinE(SpoIIE)
+1592,PF07247,Alcoholacetyltransferase
+1593,PF07276,Apopolysialoglycoprotein(PSGP)
+1594,PF07298,NnrUprotein
+1595,PF07393,ExocystcomplexcomponentSec10
+1596,PF07479,NAD-dependentglycerol-3-phosphatedehydrogenaseC-terminus
+1597,PF07500,TranscriptionfactorS-II(TFIIS): centraldomain
+1598,PF07502,MANECdomain
+1599,PF07521,Zn-dependentmetallo-hydrolaseRNAspecificitydomain
+1600,PF07522,DNArepairmetallo-beta-lactamase
+1601,PF07525,SOCSbox
+1602,PF07527,HairyOrange
+1603,PF07531,NHR1homologytoTAF
+1604,PF07535,DBFzincfinger
+1605,PF07539,Down-regulatedinmetastasis
+1606,PF07540,Nucleolarcomplex-associatedprotein
+1607,PF07545,Vestigial/Tondufamily
+1608,PF07546,EMIdomain
+1609,PF07562,NineCysteinesDomainoffamily3GPCR
+1610,PF07565,Band3cytoplasmicdomain
+1611,PF07571,TAF6C-terminalHEATrepeatdomain
+1612,PF07576,BRCA1-associatedprotein2
+1613,PF07645,Calcium-bindingEGFdomain
+1614,PF07646,Kelchmotif
+1615,PF07647,SAMdomain(Sterilealphamotif)
+1616,PF07648,Kazal-typeserineproteaseinhibitordomain
+1617,PF07650,KHdomain
+1618,PF07651,ANTHdomain
+1619,PF07653,VariantSH3domain
+1620,PF07654,ImmunoglobulinC1-setdomain
+1621,PF07679,ImmunoglobulinI-setdomain
+1622,PF07684,NOTCHprotein
+1623,PF07686,ImmunoglobulinV-setdomain
+1624,PF07687,Peptidasedimerisationdomain
+1625,PF07690,MajorFacilitatorSuperfamily
+1626,PF07691,PA14domain
+1627,PF07692,Lowiron-inducibleperiplasmicprotein
+1628,PF07699,Putativeephrin-receptorlike
+1629,PF07701,HemeNObindingassociated
+1630,PF07707,BTBAndC-terminalKelch
+1631,PF07714,Proteintyrosineandserine/threoninekinase
+1632,PF07716,Basicregionleucinezipper
+1633,PF07717,Oligonucleotide/oligosaccharide-binding(OB)-fold
+1634,PF07719,Tetratricopeptiderepeat
+1635,PF07722,PeptidaseC26
+1636,PF07723,LeucineRichRepeat
+1637,PF07724,AAAdomain(Cdc48subfamily)
+1638,PF07727,Reversetranscriptase(RNA-dependentDNApolymerase)
+1639,PF07728,AAAdomain(dynein-relatedsubfamily)
+1640,PF07731,Multicopperoxidase
+1641,PF07732,Multicopperoxidase
+1642,PF07735,F-boxassociated
+1643,PF07741,Brf1-likeTBP-bindingdomain
+1644,PF07744,SPOCdomain
+1645,PF07749,EndoplasmicreticulumproteinERp29: C-terminaldomain
+1646,PF07762,Proteinofunknownfunction(DUF1618)
+1647,PF07765,KIP1-likeprotein
+1648,PF07766,LETM1-likeprotein
+1649,PF07767,Nop53(60Sribosomalbiogenesis)
+1650,PF07774,ERmembraneproteincomplexsubunit1: C-terminal
+1651,PF07776,Zinc-fingerassociateddomain(zf-AD)
+1652,PF07777,G-boxbindingproteinMFMR
+1653,PF07780,Spb1C-terminaldomain
+1654,PF07797,Proteinofunknownfunction(DUF1639)
+1655,PF07801,Proteinofunknownfunction(DUF1647)
+1656,PF07810,TMCdomain
+1657,PF07815,Abl-interactorHHR
+1658,PF07821,Alpha-amylaseC-terminalbeta-sheetdomain
+1659,PF07851,TMPIT-likeprotein
+1660,PF07857,Transmembranefamily: TMEM144oftransporters
+1661,PF07859,alpha/betahydrolasefold
+1662,PF07876,StressresponsiveA/BBarrelDomain
+1663,PF07883,Cupindomain
+1664,PF07885,Ionchannel
+1665,PF07887,Calmodulinbindingprotein-like
+1666,PF07888,Calciumbindingandcoiled-coildomain(CALCOCO1)like
+1667,PF07893,Proteinofunknownfunction(DUF1668)
+1668,PF07899,Frigida-likeprotein
+1669,PF07911,Proteinofunknownfunction(DUF1677)
+1670,PF07912,ERp29: N-terminaldomain
+1671,PF07914,Proteinofunknownfunction(DUF1679)
+1672,PF07923,N1221-likeprotein
+1673,PF07934,8-oxoguanineDNAglycosylase: N-terminaldomain
+1674,PF07942,N2227-likeprotein
+1675,PF07946,Proteinofunknownfunction(DUF1682)
+1676,PF07947,YhhNfamily
+1677,PF07959,L-fucokinase
+1678,PF07962,ReplicationForkProtectionComponentSwi3
+1679,PF07965,Integrinbetataildomain
+1680,PF07970,Endoplasmicreticulumvesicletransporter
+1681,PF07971,Glycosylhydrolasefamily92
+1682,PF07973,ThreonylandAlanyltRNAsynthetasesecondadditionaldomain
+1683,PF07974,EGF-likedomain
+1684,PF07983,X8domain
+1685,PF07984,Nucleotidyltransferase
+1686,PF07989,CentrosominN-terminalmotif1
+1687,PF07992,Pyridinenucleotide-disulphideoxidoreductase
+1688,PF07993,Malesterilityprotein
+1689,PF08016,Polycystincationchannel
+1690,PF08022,FAD-bindingdomain
+1691,PF08030,FerricreductaseNADbindingdomain
+1692,PF08031,Berberineandberberinelike
+1693,PF08035,Opioidsneuropeptide
+1694,PF08043,Xinrepeat
+1695,PF08064,UME(NUC010)domain
+1696,PF08065,KI67R(NUC007)repeat
+1697,PF08068,DKCLD(NUC011)domain
+1698,PF08069,RibosomalS13/S15N-terminaldomain
+1699,PF08071,RS4NT(NUC023)domain
+1700,PF08073,CHDNT(NUC034)domain
+1701,PF08079,RibosomalL30N-terminaldomain
+1702,PF08084,PROCT(NUC072)domain
+1703,PF08100,Dimerisationdomain
+1704,PF08127,PeptidasefamilyC1propeptide
+1705,PF08132,S-adenosyl-l-methioninedecarboxylaseleaderpeptide
+1706,PF08142,AARP2CN(NUC121)domain
+1707,PF08148,DSHCT(NUC185)domain
+1708,PF08149,BING4CT(NUC141)domain
+1709,PF08154,NLE(NUC135)domain
+1710,PF08159,NUC153domain
+1711,PF08167,rRNAprocessing/ribosomebiogenesis
+1712,PF08190,PIH1N-terminaldomain
+1713,PF08205,CD80-likeC2-setimmunoglobulindomain
+1714,PF08208,DNA-directedRNApolymeraseIsubunitRPA34.5
+1715,PF08210,APOBEC-likeN-terminaldomain
+1716,PF08224,Domainofunknownfunction(DUF1719)
+1717,PF08232,Striatinfamily
+1718,PF08235,LNS2(Lipin/Ned1/Smp2)
+1719,PF08238,Sel1repeat
+1720,PF08240,AlcoholdehydrogenaseGroES-likedomain
+1721,PF08241,Methyltransferasedomain
+1722,PF08242,Methyltransferasedomain
+1723,PF08243,SPT2chromatinprotein
+1724,PF08246,Cathepsinpropeptideinhibitordomain(I29)
+1725,PF08263,LeucinerichrepeatN-terminaldomain
+1726,PF08264,Anticodon-bindingdomainoftRNAligase
+1727,PF08266,Cadherin-like
+1728,PF08268,F-boxassociateddomain
+1729,PF08276,PAN-likedomain
+1730,PF08282,haloaciddehalogenase-likehydrolase
+1731,PF08284,Retroviralaspartylprotease
+1732,PF08286,Spc24subunitofNdc80
+1733,PF08295,Sin3familyco-repressor
+1734,PF08302,FungaltRNAligasephosphodiesterasedomain
+1735,PF08320,PIG-X/PBN1
+1736,PF08321,PPP5TPRrepeatregion
+1737,PF08323,Starchsynthasecatalyticdomain
+1738,PF08326,Acetyl-CoAcarboxylase: centralregion
+1739,PF08327,ActivatorofHsp90ATPasehomolog1-likeprotein
+1740,PF08333,Proteinofunknownfunction(DUF1725)
+1741,PF08337,PlexincytoplasmicRasGAPdomain
+1742,PF08344,TransientreceptorionchannelII
+1743,PF08347,N-terminalCTNNB1binding
+1744,PF08352,Oligopeptide/dipeptidetransporter: C-terminalregion
+1745,PF08367,PeptidaseM16Cassociated
+1746,PF08384,Pro-opiomelanocortin: N-terminalregion
+1747,PF08385,Dyneinheavychain: N-terminalregion1
+1748,PF08389,Exportin1-likeprotein
+1749,PF08390,TRAM1-likeprotein
+1750,PF08393,Dyneinheavychain: N-terminalregion2
+1751,PF08395,7tmChemosensoryreceptor
+1752,PF08409,Domainofunknownfunction(DUF1736)
+1753,PF08418,DNApolymerasealphasubunitBN-terminal
+1754,PF08423,Rad51
+1755,PF08433,ChromatinassociatedproteinKTI12
+1756,PF08434,Calcium-activatedchloridechannelNterminal
+1757,PF08436,1-deoxy-D-xylulose5-phosphatereductoisomeraseC-terminaldomain
+1758,PF08441,Integrinalpha
+1759,PF08442,ATP-graspdomain
+1760,PF08445,FR47-likeprotein
+1761,PF08446,PASfold
+1762,PF08447,PASfold
+1763,PF08449,UAAtransporterfamily
+1764,PF08451,Adenosine/AMPdeaminaseN-terminal
+1765,PF08458,Plantpleckstrinhomology-likeregion
+1766,PF08466,InwardrectifierpotassiumchannelN-terminal
+1767,PF08474,Myelintranscriptionfactor1
+1768,PF08506,Cse1
+1769,PF08512,HistonechaperoneRttp106-like
+1770,PF08516,ADAMcysteine-rich
+1771,PF08542,ReplicationfactorCC-terminaldomain
+1772,PF08547,ComplexIintermediate-associatedprotein30(CIA30)
+1773,PF08564,Cdc37Cterminaldomain
+1774,PF08574,TranscriptionfactorIwr1
+1775,PF08577,PI31proteasomeregulator
+1776,PF08583,CytochromecoxidasebiogenesisproteinCmc1like
+1777,PF08590,Domainofunknownfunction(DUF1771)
+1778,PF08597,TranslationinitiationfactoreIF3subunit
+1779,PF08604,NucleoporinNup153-like
+1780,PF08609,NucleotideexchangefactorFes1
+1781,PF08613,Cyclin
+1782,PF08618,TranscriptionfactorOpi1
+1783,PF08620,RPAP1-like: C-terminal
+1784,PF08625,Utp13specificWD40associateddomain
+1785,PF08628,SortingnexinCterminal
+1786,PF08643,Fungalfamilyofunknownfunction(DUF1776)
+1787,PF08644,FACTcomplexsubunit(SPT16/CDC68)
+1788,PF08653,DASHcomplexsubunitDam1
+1789,PF08654,DASHcomplexsubunitDad2
+1790,PF08657,DASHcomplexsubunitSpc34
+1791,PF08659,KRdomain
+1792,PF08662,EukaryotictranslationinitiationfactoreIF2A
+1793,PF08669,GlycinecleavageT-proteinC-terminalbarreldomain
+1794,PF08686,PLAC(proteaseandlacunin)domain
+1795,PF08689,MediatorcomplexsubunitMed5
+1796,PF08699,Argonautelinker1domain
+1797,PF08711,TFIIShelicalbundle-likedomain
+1798,PF08726,Ca2+insensitiveEFhand
+1799,PF08728,CRT10
+1800,PF08736,FERMadjacent(FA)
+1801,PF08742,C8domain
+1802,PF08743,Nse4C-terminal
+1803,PF08773,CathepsinCexclusiondomain
+1804,PF08774,VRR-NUCdomain
+1805,PF08781,TranscriptionfactorDP
+1806,PF08784,ReplicationproteinACterminal
+1807,PF08785,KuCterminaldomainlike
+1808,PF08790,LYAR-typeC2HCzincfinger
+1809,PF08797,HIRANdomain
+1810,PF08825,E2bindingdomain
+1811,PF08880,QLQ
+1812,PF08913,VinculinBindingSite
+1813,PF08953,Domainofunknownfunction(DUF1899)
+1814,PF08969,USP8dimerisationdomain
+1815,PF09011,HMG-boxdomain
+1816,PF09030,Crebbinding
+1817,PF09032,Siahinteractingprotein: Nterminal
+1818,PF09034,TRADD: N-terminaldomain
+1819,PF09068,EFhand
+1820,PF09070,PFU(PLAAfamilyubiquitinbinding)
+1821,PF09072,TranslationmachineryassociatedTMA7
+1822,PF09079,CDC6: Cterminalwingedhelixdomain
+1823,PF09088,MIF4Glike
+1824,PF09118,Domainofunknownfunction(DUF1929)
+1825,PF09133,SANTA(SANTAssociated)
+1826,PF09139,Phosphatidatecytidylyltransferase: mitochondrial
+1827,PF09166,Biliverdinreductase: catalytic
+1828,PF09172,Domainofunknownfunction(DUF1943)
+1829,PF09180,Prolyl-tRNAsynthetase: C-terminal
+1830,PF09240,Interleukin-6receptoralphachain: binding
+1831,PF09286,Pro-kumamolisin: activationdomain
+1832,PF09289,Follistatin/Osteonectin-likeEGFdomain
+1833,PF09328,Domainofunknownfunction(DUF1984)
+1834,PF09329,Primasezincfinger
+1835,PF09333,Autophagy-relatedproteinCterminaldomain
+1836,PF09334,tRNAsynthetasesclassI(M)
+1837,PF09335,SNAREassociatedGolgiprotein
+1838,PF09336,Vps4Cterminaloligomerisationdomain
+1839,PF09340,HistoneacetyltransferasesubunitNuA4
+1840,PF09341,TranscriptionfactorPcc1
+1841,PF09342,Domainofunknownfunction(DUF1986)
+1842,PF09350,Domainofunknownfunction(DUF1992)
+1843,PF09359,VTCdomain
+1844,PF09360,Iron-bindingzincfingerCDGSHtype
+1845,PF09366,Proteinofunknownfunction(DUF1997)
+1846,PF09379,FERMN-terminaldomain
+1847,PF09380,FERMC-terminalPH-likedomain
+1848,PF09382,RQCdomain
+1849,PF09409,PUBdomain
+1850,PF09416,RNAhelicase(UPF2interactingdomain)
+1851,PF09425,Jasmotif
+1852,PF09445,RNAcapguanine-N2methyltransferase
+1853,PF09457,FIPdomain
+1854,PF09458,H-typelectindomain
+1855,PF09468,Ydr279pproteinfamily(RNaseH2complexcomponent)wHTHdomain
+1856,PF09532,FDFdomain
+1857,PF09606,ARC105orMed15subunitofMediatorcomplexnon-fungal
+1858,PF09667,Domainofunknownfunction(DUF2028)
+1859,PF09668,Aspartylprotease
+1860,PF09727,Cortactin-bindingprotein-2
+1861,PF09728,Myosin-likecoiled-coilprotein
+1862,PF09730,Microtubule-associatedproteinBicaudal-D
+1863,PF09731,Mitochondrialinnermembraneprotein
+1864,PF09733,VEFS-Boxofpolycombprotein
+1865,PF09735,Membrane-associatedapoptosisprotein
+1866,PF09737,De-etiolatedprotein1Det1
+1867,PF09740,Uncharacterizedconservedprotein(DUF2043)
+1868,PF09743,E3UFM1-proteinligase1
+1869,PF09744,JNK_SAPK-associatedprotein-1
+1870,PF09745,Coiled-coildomain-containingprotein55(DUF2040)
+1871,PF09748,TranscriptionfactorsubunitMed10ofMediatorcomplex
+1872,PF09751,NuclearproteinEs2
+1873,PF09753,MembranefusionproteinUse1
+1874,PF09756,DDRGKdomain
+1875,PF09762,CCDC93: coiled-coildomain
+1876,PF09764,N-terminalglutamineamidase
+1877,PF09765,FANCLUBC-likedomain1
+1878,PF09777,Osteopetrosis-associatedtransmembraneprotein1precursor
+1879,PF09779,Ima1N-terminaldomain
+1880,PF09781,NADH:ubiquinoneoxidoreductase: NDUFB5/SGDHsubunit
+1881,PF09790,Hyccin
+1882,PF09801,IntegralmembraneproteinSlinkingtothetransGolginetwork
+1883,PF09815,XK-relatedprotein
+1884,PF09835,Uncharacterizedproteinconservedinbacteria(DUF2062)
+1885,PF09949,Uncharacterizedconservedprotein(DUF2183)
+1886,PF10075,CSN8/PSMD8/EIF3Kfamily
+1887,PF10151,TMEM214: C-terminal: caspase4activator
+1888,PF10159,Multiplemyelomatumor-associated
+1889,PF10181,GPI-GlcNActransferasecomplex: PIG-Hcomponent
+1890,PF10183,ESSSsubunitofNADH:ubiquinoneoxidoreductase(complexI)
+1891,PF10189,Integratorcomplexsubunit3
+1892,PF10192,Rhodopsin-likeGPCRtransmembranedomain
+1893,PF10193,Telomerelengthregulationprotein
+1894,PF10206,MitochondrialF1F0-ATPsynthase: subunitf
+1895,PF10212,Predictedcoiled-coildomain-containingprotein
+1896,PF10237,ProbableN6-adeninemethyltransferase
+1897,PF10239,Proteinofunknownfunction(DUF2465)
+1898,PF10247,Reactivemitochondrialoxygenspeciesmodulator1
+1899,PF10250,GDP-fucoseproteinO-fucosyltransferase
+1900,PF10251,Presenilinenhancer-2subunitofgammasecretase
+1901,PF10255,RNApolymeraseI-associatedfactorPAF67
+1902,PF10256,GolginsubfamilyAmember7/ERF4family
+1903,PF10261,Inositolphospholipidsynthesisandfat-storage-inducingTM
+1904,PF10262,Rdxfamily
+1905,PF10265,Mitoguardin
+1906,PF10268,Predictedtransmembraneprotein161AB
+1907,PF10269,TransmembraneFragile-X-Fprotein
+1908,PF10270,Membranemagnesiumtransporter
+1909,PF10273,Pre-rRNA-processingproteinTSR2
+1910,PF10294,Lysinemethyltransferase
+1911,PF10300,Proteinofunknownfunction(DUF3808)
+1912,PF10309,Nuclearcap-bindingproteinsubunit3
+1913,PF10320,Serpentinetype7TMGPCRchemoreceptorSrsx
+1914,PF10321,Serpentinetype7TMGPCRchemoreceptorSrt
+1915,PF10325,Serpentinetype7TMGPCRchemoreceptorSrz
+1916,PF10329,Regionofunknownfunction(DUF2417)
+1917,PF10336,Proteinofunknownfunction(DUF2420)
+1918,PF10337,PutativeERtransporter: 6TM: N-terminal
+1919,PF10345,Cohesinloadingfactor
+1920,PF10350,Putativedeath-receptorfusionprotein(DUF2428)
+1921,PF10354,Domainofunknownfunction(DUF2431)
+1922,PF10358,N-terminalC2inEEIG1andEHBP1proteins
+1923,PF10359,RNApolIIpromoterFmp27proteindomain
+1924,PF10367,Vacuolarsortingprotein39domain2
+1925,PF10373,Est1DNA/RNAbindingdomain
+1926,PF10374,TelomeraseactivatingproteinEst1
+1927,PF10401,Interferon-regulatoryfactor3
+1928,PF10404,Rad4beta-hairpindomain2
+1929,PF10408,Ubiquitinelongatingfactorcore
+1930,PF10409,C2domainofPTENtumour-suppressorprotein
+1931,PF10413,AminoterminaloftheG-proteinreceptorrhodopsin
+1932,PF10417,C-terminaldomainof1-Cysperoxiredoxin
+1933,PF10420,Cytokineinterleukin-12p40C-terminus
+1934,PF10426,Recombination-activatingprotein1zinc-fingerdomain
+1935,PF10427,Argonautehook
+1936,PF10431,C-terminal: D2-smalldomain: ofClpBprotein
+1937,PF10436,Mitochondrialbranched-chainalpha-ketoaciddehydrogenasekinase
+1938,PF10440,Ubiquitin-bindingWIYLDdomain
+1939,PF10447,ExosomecomponentEXOSC1/CSL4
+1940,PF10453,NuclearfragileXmentalretardation-interactingprotein1(NUFIP1)
+1941,PF10456,WASP-bindingdomainofSortingnexinprotein
+1942,PF10471,Anaphase-promotingcomplexAPCsubunitCDC26
+1943,PF10480,Beta-1integrinbindingprotein
+1944,PF10504,Proteinofunknownfunction(DUF2452)
+1945,PF10513,Enhancerofpolycomb-like
+1946,PF10517,ElectrontransferDM13
+1947,PF10520,BdomainofTMEM189: localisationdomain
+1948,PF10524,NuclearfactorIproteinpre-N-terminus
+1949,PF10537,ATP-utilisingchromatinassemblyandremodellingN-terminal
+1950,PF10542,Vitellinemembranecysteine-richregion
+1951,PF10544,T5orf172domain
+1952,PF10545,AlcoholdehydrogenasetranscriptionfactorMyb/SANT-like
+1953,PF10551,MULEtransposasedomain
+1954,PF10557,Cullinproteinneddylationdomain
+1955,PF10569,Alpha-2-macroglobulin thiol-ester bond-forming
+1956,PF10577,UncharacterisedproteinfamilyUPF0560
+1957,PF10581,SynapsinN-terminal
+1958,PF10584,ProteasomesubunitAN-terminalsignature
+1959,PF10587,Eukaryoticelongationfactor1betacentralacidicregion
+1960,PF10588,NADH-ubiquinoneoxidoreductase-Giron-sulfurbindingregion
+1961,PF10590,Pyridoxine5'-phosphateoxidaseC-terminaldimerisationregion
+1962,PF10591,SecretedproteinacidicandrichincysteineCabindingregion
+1963,PF10596,U6-snRNAinteractingdomainofPrP8
+1964,PF10600,PDZ-associateddomainofNMDAreceptors
+1965,PF10601,LITAF-likezincribbondomain
+1966,PF10607,CTLH/CRAC-terminaltoLisHmotifdomain
+1967,PF10613,LigatedionchannelL-glutamate-andglycine-bindingsite
+1968,PF10629,Proteinofunknownfunction(DUF2475)
+1969,PF10630,Proteinofunknownfunction(DUF2476)
+1970,PF10690,Myticinpre-proproteinfromthemussel
+1971,PF10806,SAM35: subunitofSAMcoomplex
+1972,PF10868,Cysteine-richantifungalprotein2: defensin-like
+1973,PF10996,Beta-Caspdomain
+1974,PF11001,Proteinofunknownfunction(DUF2841)
+1975,PF11018,PupalcuticleproteinC1
+1976,PF11025,GlycoproteinGP40ofCryptosporidium
+1977,PF11028,Proteinofunknownfunction(DUF2723)
+1978,PF11145,Proteinofunknownfunction(DUF2921)
+1979,PF11346,Proteinofunknownfunction(DUF3149)
+1980,PF11411,DNAligaseIV
+1981,PF11427,Tc3transposase
+1982,PF11461,Rabinteractinglysosomalprotein
+1983,PF11470,TUGubiquitin-likedomain
+1984,PF11548,Protein-tyrosinephosphatasereceptorIA-2
+1985,PF11556,Erythrocytebindingantigen175
+1986,PF11573,Mediatorcomplexsubunit23
+1987,PF11581,AntagonistofEGFRsignalling: Argos
+1988,PF11597,Mediatorcomplexsubunit13N-terminal
+1989,PF11601,Shal-typevoltage-gatedpotassiumchannels: N-terminal
+1990,PF11652,FAM167
+1991,PF11702,Proteinofunknownfunction(DUF3295)
+1992,PF11707,Ribosome60SbiogenesisN-terminal
+1993,PF11712,Endoplasmicreticulum-basedfactorforassemblyofV-ATPase
+1994,PF11721,Malectindomain
+1995,PF11779,Smallsubunitofserinepalmitoyltransferase-like
+1996,PF11790,Glycosylhydrolasecatalyticcore
+1997,PF11798,IMSfamilyHHHmotif
+1998,PF11807,MycotoxinbiosynthesisproteinUstYa
+1999,PF11820,Proteinofunknownfunction(DUF3339)
+2000,PF11838,ERAP1-likeC-terminaldomain
+2001,PF11878,Domainofunknownfunction(DUF3398)
+2002,PF11883,Domainofunknownfunction(DUF3403)
+2003,PF11894,Nuclearporecomplexscaffold: nucleoporins186/192/205
+2004,PF11901,Proteinofunknownfunction(DUF3421)
+2005,PF11904,GPCR-chaperone
+2006,PF11913,Proteinofunknownfunction(DUF3431)
+2007,PF11915,Proteinofunknownfunction(DUF3433)
+2008,PF11917,Proteinofunknownfunction(DUF3435)
+2009,PF11928,EarlygrowthresponseN-terminaldomain
+2010,PF11933,Cytoplasmicdomainofvoltage-gatedNa+ionchannel
+2011,PF11935,Domainofunknownfunction(DUF3453)
+2012,PF11951,Fungalspecifictranscriptionfactordomain
+2013,PF11955,PlantorganelleRNArecognitiondomain
+2014,PF11957,THOcomplexsubunit1transcriptionelongationfactor
+2015,PF11971,CAMSAPCHdomain
+2016,PF11976,Ubiquitin-2likeRad60SUMO-like
+2017,PF11977,Zc3h12a-likeRibonucleaseNYNdomain
+2018,PF11987,Translation-initiationfactor2
+2019,PF11998,Lowpsiiaccumulation1/Rep27
+2020,PF12004,Domainofunknownfunction(DUF3498)
+2021,PF12009,Telomeraseribonucleoproteincomplex-RNAbindingdomain
+2022,PF12017,Transposaseprotein
+2023,PF12022,Domainofunknownfunction(DUF3510)
+2024,PF12026,Crk-AssociatedSubstrateC-terminaldomain
+2025,PF12041,TranscriptionalregulatorDELLAproteinNterminal
+2026,PF12043,Domainofunknownfunction(DUF3527)
+2027,PF12044,Putativepeptidasefamily
+2028,PF12070,ProteinSCAI
+2029,PF12143,Proteinofunknownfunction(DUF_B2219)
+2030,PF12145,EukaryoticMediator12subunitdomain
+2031,PF12146,Serineaminopeptidase: S33
+2032,PF12155,NADHdehydrogenasesubunit2N-terminal
+2033,PF12169,DNApolymeraseIIIsubunitsgammaandtaudomainIII
+2034,PF12171,Zinc-fingerdouble-strandedRNA-binding
+2035,PF12202,Oxidative-stress-responsivekinase1C-terminaldomain
+2036,PF12234,RAVEprotein1Cterminal
+2037,PF12235,FragileX-related1proteincoreCterminal
+2038,PF12260,Protein-kinasedomainofFAM69
+2039,PF12265,Histone-bindingproteinRBBP4orsubunitCofCAF1complex
+2040,PF12280,Brainspecificmembraneanchoredprotein
+2041,PF12294,Proteinofunknownfunction(DUF3626)
+2042,PF12310,TranscriptionfactorproteinNterminal
+2043,PF12313,NPR1/NIM1likedefenceproteinCterminal
+2044,PF12325,TATAelementmodulatoryfactor1TATAbinding
+2045,PF12348,CLASPNterminal
+2046,PF12350,CTDkinasesubunitgammaCTK3C-terminus
+2047,PF12357,PhospholipaseDCterminal
+2048,PF12409,P5-typeATPasecationtransporter
+2049,PF12416,Cep120protein
+2050,PF12417,Zincfingerprotein
+2051,PF12423,Kinesinprotein1B
+2052,PF12430,AbscisicacidG-proteincoupledreceptor
+2053,PF12436,ICP0-bindingdomainofUbiquitin-specificprotease7
+2054,PF12452,Proteinofunknownfunction(DUF3685)
+2055,PF12463,Proteinofunknownfunction(DUF3689)
+2056,PF12490,Breastcarcinomaamplifiedsequence3
+2057,PF12498,Basicleucine-zipperCterminal
+2058,PF12510,Smoothelincytoskeletonprotein
+2059,PF12515,Ca2+-ATPaseNterminalautoinhibitorydomain
+2060,PF12516,Proteinofunknownfunction(DUF3719)
+2061,PF12529,XylosyltransferaseCterminal
+2062,PF12542,Pre-mRNAsplicingfactor
+2063,PF12548,Sulfataseprotein
+2064,PF12550,Transcriptionalactivatorofglycolyticenzymes
+2065,PF12554,Mitotic-spindleorganizinggamma-tubulinringassociated
+2066,PF12572,Proteinofunknownfunction(DUF3752)
+2067,PF12583,TripeptidylpeptidaseIINterminal
+2068,PF12584,Traffickingproteinparticlecomplexsubunit10: TRAPPC10
+2069,PF12605,Caseinkinase1gammaCterminal
+2070,PF12610,Suppressorofcytokinesignalling
+2071,PF12624,N-terminalregionofChoreinorVPS13
+2072,PF12661,Humangrowthfactor-likeEGF
+2073,PF12678,RING-H2zincfingerdomain
+2074,PF12689,AcidPhosphatase
+2075,PF12697,Alpha/betahydrolasefamily
+2076,PF12706,Beta-lactamasesuperfamilydomain
+2077,PF12719,Nuclearcondensingcomplexsubunits: C-termdomain
+2078,PF12736,Cell-cyclesustaining: positiveselection: 
+2079,PF12738,twinBRCTdomain
+2080,PF12752,SUZdomain
+2081,PF12755,Vacuolar14Fab1-bindingregion
+2082,PF12763,Cytoskeletal-regulatorycomplexEFhand
+2083,PF12772,Growthhormonereceptorbinding
+2084,PF12776,Myb/SANT-likeDNA-bindingdomain
+2085,PF12777,Microtubule-bindingstalkofdyneinmotor
+2086,PF12780,P-loopcontainingdyneinmotorregionD4
+2087,PF12783,GuaninenucleotideexchangefactorinGolgitransportN-terminal
+2088,PF12785,Varianterythrocytesurfaceantigen-1
+2089,PF12796,Ankyrinrepeats(3copies)
+2090,PF12799,LeucineRichrepeats(2copies)
+2091,PF12816,GolgiCORVETcomplexcorevacuolarprotein8
+2092,PF12819,Malectin-likedomain
+2093,PF12820,Serine-richdomainassociatedwithBRCT
+2094,PF12825,DomainofunknownfunctioninPX-proteins(DUF3818)
+2095,PF12828,PX-associated
+2096,PF12829,Transcriptionalregulationofmitochondrialrecombination
+2097,PF12831,FADdependentoxidoreductase
+2098,PF12832,MFS_1likefamily
+2099,PF12838,4Fe-4Sdiclusterdomain
+2100,PF12845,TBDdomain
+2101,PF12848,ABCtransporter
+2102,PF12851,Oxygenasedomainofthe2OGFeDOsuperfamily
+2103,PF12854,PPRrepeat
+2104,PF12855,ECL1/2/3zincbindingproteins
+2105,PF12859,Anaphase-promotingcomplexsubunit1
+2106,PF12871,Pre-mRNA-splicingfactor38-associatedhydrophilicC-term
+2107,PF12872,OST-HTH/LOTUSdomain
+2108,PF12877,Domainofunknownfunction(DUF3827)
+2109,PF12894,Anaphase-promotingcomplexsubunit4WD40domain
+2110,PF12925,E2domainofamyloidprecursorprotein
+2111,PF12931,Sec23-bindingdomainofSec16
+2112,PF12937,F-box-like
+2113,PF12940,Recombination-activationprotein1(RAG1): recombinase
+2114,PF12943,Proteinofunknownfunction(DUF3839)
+2115,PF12946,MSP1EGFdomain1
+2116,PF12947,EGFdomain
+2117,PF13012,Maintenanceofmitochondrialstructureandfunction
+2118,PF13015,GlucosidaseIIbetasubunit-likeprotein
+2119,PF13017,piRNApathwaygerm-plasmcomponent
+2120,PF13041,PPRrepeatfamily
+2121,PF13091,PLD-likedomain
+2122,PF13176,Tetratricopeptiderepeat
+2123,PF13180,PDZdomain
+2124,PF13181,Tetratricopeptiderepeat
+2125,PF13187,4Fe-4Sdiclusterdomain
+2126,PF13193,AMP-bindingenzymeC-terminaldomain
+2127,PF13202,EFhand
+2128,PF13206,TrypanosomalVSGdomain
+2129,PF13225,Domainofunknownfunction(DUF4033)
+2130,PF13234,rRNA-processingarchdomain
+2131,PF13240,zinc-ribbondomain
+2132,PF13243,Squalene-hopenecyclaseC-terminaldomain
+2133,PF13306,BspAtypeLeucinerichrepeatregion(6copies)
+2134,PF13336,Acetyl-CoAhydrolase/transferaseC-terminaldomain
+2135,PF13341,RAG2PHDdomain
+2136,PF13344,Haloaciddehalogenase-likehydrolase
+2137,PF13355,Proteinofunknownfunction(DUF4101)
+2138,PF13359,DDEsuperfamilyendonuclease
+2139,PF13364,Beta-galactosidasejellyrolldomain
+2140,PF13368,TopoisomeraseC-terminalrepeat
+2141,PF13369,Transglutaminase-likesuperfamily
+2142,PF13374,Tetratricopeptiderepeat
+2143,PF13378,EnolaseC-terminaldomain-like
+2144,PF13390,Proteinofunknownfunction(DUF4108)
+2145,PF13401,AAAdomain
+2146,PF13405,EF-handdomain
+2147,PF13414,TPRrepeat
+2148,PF13417,GlutathioneS-transferase: N-terminaldomain
+2149,PF13419,Haloaciddehalogenase-likehydrolase
+2150,PF13426,PASdomain
+2151,PF13445,RING-typezinc-finger
+2152,PF13460,NAD(P)H-binding
+2153,PF13472,GDSL-likeLipase/Acylhydrolasefamily
+2154,PF13499,EF-handdomainpair
+2155,PF13506,Glycosyltransferasefamily21
+2156,PF13516,LeucineRichrepeat
+2157,PF13519,vonWillebrandfactortypeAdomain
+2158,PF13520,Aminoacidpermease
+2159,PF13532,2OG-Fe(II)oxygenasesuperfamily
+2160,PF13559,Domainofunknownfunction(DUF4129)
+2161,PF13579,Glycosyltransferase4-likedomain
+2162,PF13598,Domainofunknownfunction(DUF4139)
+2163,PF13599,Pentapeptiderepeats(9copies)
+2164,PF13606,Ankyrinrepeat
+2165,PF13631,Cytochromeb(N-terminal)/b6/petB
+2166,PF13634,NucleoporinFGrepeatregion
+2167,PF13639,Ringfingerdomain
+2168,PF13640,2OG-Fe(II)oxygenasesuperfamily
+2169,PF13664,Domainofunknownfunction(DUF4149)
+2170,PF13676,TIRdomain
+2171,PF13716,DivergentCRAL/TRIOdomain
+2172,PF13718,GNATacetyltransferase2
+2173,PF13765,SPRY-associateddomain
+2174,PF13768,vonWillebrandfactortypeAdomain
+2175,PF13774,Regulated-SNARE-likedomain
+2176,PF13793,N-terminaldomainofribosephosphatepyrophosphokinase
+2177,PF13802,Galactosemutarotase-like
+2178,PF13805,EisosomecomponentPIL1
+2179,PF13812,Pentatricopeptiderepeatdomain
+2180,PF13821,Domainofunknownfunction(DUF4187)
+2181,PF13833,EF-handdomainpair
+2182,PF13843,TransposaseIS4
+2183,PF13847,Methyltransferasedomain
+2184,PF13855,Leucinerichrepeat
+2185,PF13869,Nucleotidehydrolase
+2186,PF13873,Myb/SANT-likeDNA-bindingdomain
+2187,PF13878,zinc-fingerofacetyl-transferaseESCO
+2188,PF13882,Bravo-likeintracellularregion
+2189,PF13885,Keratin: highsulfurB2protein
+2190,PF13887,Myelingeneregulatoryfactor-C-terminaldomain1
+2191,PF13889,Chromosomesegregationduringmeiosis
+2192,PF13895,Immunoglobulindomain
+2193,PF13903,PMP-22/EMP/MP20/Claudintightjunction
+2194,PF13905,Thioredoxin-like
+2195,PF13911,AhpC/TSAantioxidantenzyme
+2196,PF13918,PLD-likedomain
+2197,PF13926,Domainofunknownfunction(DUF4211)
+2198,PF13936,Helix-turn-helixdomain
+2199,PF13947,Wall-associatedreceptorkinasegalacturonan-binding
+2200,PF13948,Domainofunknownfunction(DUF4215)
+2201,PF13949,ALIXV-shapeddomainbindingtoHIV
+2202,PF13952,Domainofunknownfunction(DUF4216)
+2203,PF13959,Domainofunknownfunction(DUF4217)
+2204,PF13962,Domainofunknownfunction
+2205,PF13967,Lateexocytosis: associatedwithGolgitransport
+2206,PF13968,Domainofunknownfunction(DUF4220)
+2207,PF13976,GAG-pre-integrasedomain
+2208,PF14008,Iron/zincpurpleacidphosphatase-likeproteinC
+2209,PF14022,Proteinofunknownfunction(DUF4238)
+2210,PF14048,C-terminaldomainofmethyl-CpGbindingprotein2and3
+2211,PF14111,Domainofunknownfunction(DUF4283)
+2212,PF14214,Helitronhelicase-likedomainatN-terminus
+2213,PF14222,CellmorphogenesisN-terminal
+2214,PF14225,CellmorphogenesisC-terminal
+2215,PF14226,non-haemdioxygenaseinmorphinesynthesisN-terminal
+2216,PF14228,Cellmorphogenesiscentralregion
+2217,PF14231,GXWXGprotein
+2218,PF14244,gag-polypeptideofLTRcopia-type
+2219,PF14260,C4-typezinc-fingerofDNApolymerasedelta
+2220,PF14295,PANdomain
+2221,PF14299,Phloemprotein2
+2222,PF14309,Domainofunknownfunction(DUF4378)
+2223,PF14310,FibronectintypeIII-likedomain
+2224,PF14312,FG-GAPrepeat
+2225,PF14327,Hingedomainofcleavagestimulationfactorsubunit2
+2226,PF14336,Domainofunknownfunction(DUF4392)
+2227,PF14360,PAP2superfamilyC-terminal
+2228,PF14370,C-terminaltopoisomerasedomain
+2229,PF14377,Ubiquitinbindingregion
+2230,PF14380,Wall-associatedreceptorkinaseC-terminal
+2231,PF14383,DUF761-associatedsequencemotif
+2232,PF14392,Zincknuckle
+2233,PF14413,Thg1Cterminaldomain
+2234,PF14429,C2domaininDock180andZiziminproteins
+2235,PF14432,DYWfamilyofnucleicaciddeaminases
+2236,PF14437,MafB19-likedeaminase
+2237,PF14484,Fish-specificNACHTassociateddomain
+2238,PF14497,GlutathioneS-transferase: C-terminaldomain
+2239,PF14510,ABC-transporterN-terminal
+2240,PF14534,Domainofunknownfunction(DUF4440)
+2241,PF14538,RaptorN-terminalCASPaselikedomain
+2242,PF14545,Dof: BCAP: andBANK(DBB)motif: 
+2243,PF14547,Hydrophobicseedprotein
+2244,PF14551,MCMN-terminaldomain
+2245,PF14558,ML-likedomain
+2246,PF14560,Ubiquitin-likedomain
+2247,PF14569,Zinc-bindingRING-finger
+2248,PF14572,Phosphoribosylsynthetase-associateddomain
+2249,PF14575,Ephrintype-Areceptor2transmembranedomain
+2250,PF14596,STAT6C-terminal
+2251,PF14604,VariantSH3domain
+2252,PF14625,Lustrin: cysteine-richrepeateddomain
+2253,PF14631,FanconianaemiaproteinFancD2nuclease
+2254,PF14637,Folliculin-interactingproteinmiddledomain
+2255,PF14641,Helix-turn-helixDNA-bindingdomainofSPT6
+2256,PF14642,FAM47family
+2257,PF14652,Domainofunknownfunction(DUF4457)
+2258,PF14664,Rapamycin-insensitivecompanionofmTOR: N-term
+2259,PF14672,Latecornifiedenvelope
+2260,PF14676,FANCIsolenoid2
+2261,PF14691,DihydroprymidinedehydrogenasedomainII: 4Fe-4Scluster
+2262,PF14692,Domainofunknownfunction(DUF4462)
+2263,PF14698,ArgininosuccinatelyaseC-terminal
+2264,PF14700,DNA-directedRNApolymeraseN-terminal
+2265,PF14703,Cytosolicdomainof10TMputativephosphatetransporter
+2266,PF14723,Sperm-specificantigen2C-terminus
+2267,PF14736,ProteinN-terminalasparagineamidohydrolase
+2268,PF14740,Domainofunknownfunction(DUF4471)
+2269,PF14745,WASHcomplexsubunit7: N-terminal
+2270,PF14748,Pyrroline-5-carboxylatereductasedimerisation
+2271,PF14749,Acyl-coenzymeAoxidaseN-terminal
+2272,PF14765,Polyketidesynthasedehydratase
+2273,PF14767,ReplicationproteinAinteractingmiddle
+2274,PF14779,CiliaryBBSomecomplexsubunit1
+2275,PF14780,Domainofunknownfunction(DUF4477)
+2276,PF14782,CiliaryBBSomecomplexsubunit2: C-terminal
+2277,PF14798,Calciumhomeostasismodulator
+2278,PF14800,Domainofunknownfunction(DUF4481)
+2279,PF14802,TMEM192family
+2280,PF14808,TMEM164family
+2281,PF14817,HAUSaugmin-likecomplexsubunit5
+2282,PF14829,Glycerol-3-phosphateacyltransferaseN-terminal
+2283,PF14836,Ubiquitin-likedomain
+2284,PF14843,GrowthfactorreceptordomainIV
+2285,PF14844,PHdomainassociatedwithBeige/BEACH
+2286,PF14845,beta-acetylhexosaminidaselike
+2287,PF14853,Fis1C-terminaltetratricopeptiderepeat
+2288,PF14863,Alkylsulfatasedimerisation
+2289,PF14875,N-termcysteine-richER: FAM69
+2290,PF14932,HAUSaugmin-likecomplexsubunit3
+2291,PF14953,Domainofunknownfunction(DUF4504)
+2292,PF14972,Mitochondrialmorphogenesisregulator
+2293,PF14977,FAM194protein
+2294,PF15001,AP-5complexsubunitsigma-1
+2295,PF15005,Izumosperm-eggfusion: Igdomain-associated
+2296,PF15017,PutativeWW-bindingdomainanddestructionbox
+2297,PF15043,CB1cannabinoidreceptor-interactingprotein1
+2298,PF15044,Mitochondrialfunction: CLU-N-term
+2299,PF15052,TMEM169proteinfamily
+2300,PF15068,FAM101family
+2301,PF15082,Domainofunknownfunction(DUF4549)
+2302,PF15086,UncharacterisedproteinfamilyUPF0542
+2303,PF15163,Meiosis-expressed
+2304,PF15167,Domainofunknownfunction(DUF4581)
+2305,PF15171,Neuropeptidesecretoryproteinfamily: NPQ: spexin
+2306,PF15250,Raftlin
+2307,PF15261,Jhyprotein
+2308,PF15275,PEHEdomain
+2309,PF15276,Proteinphosphatase1binding
+2310,PF15295,Coiled-coildomain-containingprotein50N-terminus
+2311,PF15302,P33mono-oxygenase
+2312,PF15346,Arginineandglutamate-rich1
+2313,PF15348,GeminiofCajalbodies-associatedprotein8
+2314,PF15370,Domainofunknownfunction(DUF4598)
+2315,PF15378,Domainofunknownfunction(DUF4605)
+2316,PF15391,Domainofunknownfunction(DUF4614)
+2317,PF15396,ProteinFamilyFAM60A
+2318,PF15412,BindingdomainofNse4/EID3toNse3-MAGE
+2319,PF15430,SingledomainvonWillebrandfactortypeC
+2320,PF15433,Mitochondrial28SribosomalproteinS31
+2321,PF15445,acidicterminalsegments: variantsurfaceantigenofPfEMP1
+2322,PF15501,NuclearproteinMDM1
+2323,PF15612,WSTF: HB1: Itc1p: MBD9motif1
+2324,PF15712,NPATCterminus
+2325,PF15755,Domainofunknownfunction(DUF4689)
+2326,PF15763,Regulatorofhumanerythroidcellexpansion(RHEX)
+2327,PF15780,Abnormalspindle-likemicrocephaly-assoc'd: ASPM-SPD-2-Hydin
+2328,PF15787,Domainofunknownfunction(DUF4704)
+2329,PF15789,HyphallyregulatedcellwallGPI-anchoredprotein1
+2330,PF15797,Domainofunknownfunction(DUF4706)
+2331,PF15801,zf-MYND-likezincfinger: mRNA-binding
+2332,PF15827,UPF0730unknownproteinfamily
+2333,PF15831,Domainofunknownfunction(DUF4713)
+2334,PF15868,TranscriptionactivatorMBF2
+2335,PF15886,Carbohydratebindingdomain(family32)
+2336,PF15898,cGMP-dependentproteinkinaseinteractingdomain
+2337,PF15902,Sortilin: neurotensinreceptor3: 
+2338,PF15906,Zinc-fingerofnitricoxidesynthase-interactingprotein
+2339,PF15913,Furin-likerepeat: cysteine-rich
+2340,PF15917,Piezo
+2341,PF15924,ALG11mannosyltransferaseN-terminus
+2342,PF15932,Domainofunknownfunction(DUF4748)
+2343,PF15936,Domainofunknownfunction(DUF4749)
+2344,PF15961,Domainofunknownfunction(DUF4764)
+2345,PF15979,Glycosylhydrolasefamily115
+2346,PF15991,G-proteinpathwaysuppressor
+2347,PF15996,Arginine/serine-richproteinPNISR
+2348,PF16002,Headcaseprotein
+2349,PF16004,116kDaU5smallnuclearribonucleoproteincomponentN-terminus
+2350,PF16013,Domainofunknownfunction(DUF4781)
+2351,PF16016,VAD1AnalogofStAR-relatedlipidtransferdomain
+2352,PF16020,Deltamethrinresistance
+2353,PF16028,Solutecarrierfamily3member2N-terminus
+2354,PF16030,SerineproteasegdN-terminus
+2355,PF16034,JAKMIPCC3domain
+2356,PF16037,Domainofunknownfunction(DUF4790)
+2357,PF16054,Transmembraneproteinfamily72
+2358,PF16059,Domainofunknownfunction(DUF4801)
+2359,PF16060,Domainofunknownfunction(DUF4802)
+2360,PF16064,Domainofunknownfunction(DUF4806)
+2361,PF16065,Domainofunknownfunction(DUF4807)
+2362,PF16070,Transmembraneproteinfamily132
+2363,PF16073,Starterunit:ACPtransacylaseinaflatoxinbiosynthesis
+2364,PF16086,Domainofunknownfunction(DUF4816)
+2365,PF16091,Domainofunknownfunction(DUF4820)
+2366,PF16099,Recq-mediatedgenomeinstabilityprotein1: C-terminalOB-fold
+2367,PF16102,ACTH-associateddomain
+2368,PF16114,ATPcitratelyasecitrate-binding
+2369,PF16124,RecQzinc-binding
+2370,PF16131,Torusdomain
+2371,PF16135,Tifydomainbindingdomain
+2372,PF16158,Ig-likedomainfromnexttoBRCA1gene
+2373,PF16172,DOCKN-terminus
+2374,PF16173,Domainofunknownfunction(DUF4874)
+2375,PF16179,Relhomologydimerisationdomain
+2376,PF16183,Kinesin-associated
+2377,PF16186,AtypicalArmrepeat
+2378,PF16187,Middleorthirddomainofpeptidase_M16
+2379,PF16188,C-terminalregionofpeptidase_M24
+2380,PF16192,C-terminalfourTMMregionofprotein-O-mannosyltransferase
+2381,PF16197,Ketoacyl-synthetaseC-terminalextension
+2382,PF16198,tRNApseudouridylatesynthaseBC-terminaldomain
+2383,PF16202,N-terminalregionofBloomsyndromeprotein
+2384,PF16208,KeratintypeIIhead
+2385,PF16209,Phospholipid-translocatingATPaseN-terminal
+2386,PF16211,C-terminusofhistoneH2A
+2387,PF16212,Phospholipid-translocatingP-typeATPaseC-terminal
+2388,PF16278,C2HE/C2H2/C2HCzinc-bindingfinger
+2389,PF16347,Domainofunknownfunction(DUF4976)
+2390,PF16363,GDP-mannose4: 6dehydratase
+2391,PF16366,Cytoplasmicpolyadenylationelement-bindingproteinZZdomain
+2392,PF16413,DNAmismatchrepairproteinMlh1C-terminus
+2393,PF16415,CCR4-NOTtranscriptioncomplexsubunit1CAF1-bindingdomain
+2394,PF16417,CCR4-NOTtranscriptioncomplexsubunit1TTPbindingdomain
+2395,PF16418,CCR4-NOTtranscriptioncomplexsubunit1HEATrepeat
+2396,PF16455,Ubiquitin-bindingdomain
+2397,PF16457,Pleckstrinhomologydomain
+2398,PF16470,PeptidaseS8pro-domain
+2399,PF16471,JNK-interactingproteinleucinezipperII
+2400,PF16484,CarnitineO-palmitoyltransferaseN-terminus
+2401,PF16486,N-terminaldomainofargonaute
+2402,PF16488,Argonautelinker2domain
+2403,PF16491,CAAXprenylproteaseN-terminal: fivemembranehelices
+2404,PF16493,N-terminalofHomeoboxMeisandPKNOX1
+2405,PF16503,Zinc-ribbon
+2406,PF16511,N-terminalorF0domainofTalin-headFERM
+2407,PF16517,NovelRaseffector1C-terminalSARAH(Sav/Rassf/Hpo)domain
+2408,PF16519,TetramerisationdomainofTRPM
+2409,PF16528,Exocystcomponent84C-terminal
+2410,PF16533,STIM1Orai1-activatingregion
+2411,PF16534,Ubiquitin-likeoligomerisationdomainofSATB
+2412,PF16543,DRGFamilyRegulatoryProteins: Tma46
+2413,PF16566,Cell-cyclealterationandexpression-elevatedproteinintumour
+2414,PF16575,mRNAcleavageandpolyadenylationfactorCLP1P-loop
+2415,PF16589,BRCTdomain: aBRCA1C-terminusdomain
+2416,PF16608,TNRC6-PABCbindingdomain
+2417,PF16661,Metallo-beta-lactamasesuperfamilydomain
+2418,PF16704,Rabbindingdomain
+2419,PF16709,Igdomainofplant-specificactin-bindingprotein
+2420,PF16712,Coiled-coilregionsofplant-specificactin-bindingprotein
+2421,PF16739,Caspaserecruitmentdomain
+2422,PF16744,KIAA1045RINGfinger
+2423,PF16760,Starch/carbohydrate-bindingmodule(family53)
+2424,PF16770,RegulatorofTy1transpositionprotein107BRCTdomain
+2425,PF16794,Fibronectin-IIItypedomain
+2426,PF16835,Pre-mRNA-splicingfactorSF3acomplexsubunit2(Prp11)
+2427,PF16837,Pre-mRNA-splicingfactorSF3A3: ofSF3acomplex: Prp9
+2428,PF16863,N-terminalbarrelofNtMGAMandCtMGAM: maltase-glucoamylase
+2429,PF16866,PHD-finger
+2430,PF16870,2-oxoglutaratedehydrogenaseC-terminal
+2431,PF16878,Transcriptionalregulator: SIX1: N-terminalSDdomain
+2432,PF16879,C-terminaldomainofSin3aprotein
+2433,PF16891,Serine-threonineproteinphosphataseN-terminaldomain
+2434,PF16897,C-terminalregionofMMR_HSR1domain
+2435,PF16908,Vacuolarsorting-associatedprotein13: N-terminal
+2436,PF16909,Vacuolar-sorting-associated13proteinC-terminal
+2437,PF16910,RepeatingcoiledregionofVPS13
+2438,PF16916,DimerisationdomainofZincTransporter
+2439,PF16922,DNAreplicationcomplexGINSproteinSLD5C-terminus
+2440,PF16972,Na+channelauxiliarysubunitTipE
+2441,PF16978,SAPK-interactingprotein1(Sin1): middleCRIMdomain
+2442,PF16981,chi-Conotoxinortsuperfamily
+2443,PF17048,Neutral/alkalinenon-lysosomalceramidase: C-terminal
+2444,PF17095,Spectrin-bindingregionofCa2+-Calmodulin
+2445,PF17123,RING-likezincfinger
+2446,PF17135,Ribosomalprotein60SL18and50SL18e
+2447,PF17137,Domainofunknownfunction(DUF5110)
+2448,PF17171,GlutathioneS-transferase: C-terminaldomain
+2449,PF17172,GlutathioneS-transferaseN-terminaldomain
+2450,PF17177,Pentacotripeptide-repeatregionofPRORP
+2451,PF17207,MCMOBdomain
+2452,PF17219,Yaf2/RYBPC-terminalbindingmotif

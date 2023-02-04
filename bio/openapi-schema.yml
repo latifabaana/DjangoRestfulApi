@@ -1,0 +1,121 @@
+openapi: 3.0.2
+info:
+  title: ''
+  version: ''
+paths:
+  /api/protein/{protein_id}:
+    get:
+      operationId: retrieveprotein_detail
+      description: ''
+      parameters:
+      - name: protein_id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
+  /api/pfams/{taxa_id}:
+    get:
+      operationId: retrieveprotein_from_domain
+      description: ''
+      parameters:
+      - name: taxa_id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
+  /api/coverage/{protein_id}:
+    get:
+      operationId: retrievepFam_for_domain
+      description: ''
+      parameters:
+      - name: protein_id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
+  /api/proteins/{taxa_id}:
+    get:
+      operationId: retrieveprotein_from_domain
+      description: ''
+      parameters:
+      - name: taxa_id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
+  /api/pfam/{pfam_id}:
+    get:
+      operationId: retrieveget_pfam
+      description: ''
+      parameters:
+      - name: pfam_id
+        in: path
+        required: true
+        description: ''
+        schema:
+          type: string
+      responses:
+        '200':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
+  /api/protein/:
+    post:
+      operationId: createadd_protein
+      description: ''
+      parameters: []
+      requestBody:
+        content:
+          application/json:
+            schema: {}
+          application/x-www-form-urlencoded:
+            schema: {}
+          multipart/form-data:
+            schema: {}
+      responses:
+        '201':
+          content:
+            application/json:
+              schema: {}
+          description: ''
+      tags:
+      - api
